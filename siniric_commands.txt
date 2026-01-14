@@ -1,0 +1,22 @@
+Change Channel:
+“Alexa, Change channel to *channel name OR channel number* on *device name*”
+
+Change Input:
+“Alexa, Change input to *Input Name* on *device Name*”
+“Alexa, Change input on *Device Name*”
+
+Media Controls:
+“Alexa, Pause *device name*”
+“Alexa, Play *device name*”
+
+Volume:
+“Alexa, turn up volume on *device name*”
+
+Mute:
+“Alexa, Mute *device name*”
+
+
+
+
+
+
