@@ -1,0 +1,1524 @@
+PORTRONICS 
+
+Play Pause 
+06:47:30.497 -> NEC Command: 0x19
+06:47:30.563 -> Protocol=NEC Address=0x0, Command=0x19, Repeat, Gap=39750us, Duration=12000us
+06:47:30.563 -> NEC Command: 0x19
+06:47:33.032 -> Protocol=NEC Address=0x0, Command=0x19, Raw-Data=0xE619FF00, 32 bits, LSB first, Gap=2408450us, Duration=68700us
+06:47:33.032 -> Send with: IrSender.sendNEC(0x0, 0x19, <numberOfRepeats>);
+06:47:33.032 -> NEC Command: 0x19
+06:47:33.068 -> Protocol=NEC Address=0x0, Command=0x19, Repeat, Gap=39800us, Duration=11950us
+06:47:33.101 -> NEC Command: 0x19
+Ln 37, Col 5
+ESP32-WROOM-DA Module
+on /dev/cu.usbserial-0001
+3
+
+
+
+Mode  Raw-Data=0xBF40FF00
+06:49:27.831 -> Protocol=NEC Address=0x0, Command=0x40, Raw-Data=0xBF40FF00, 32 bits, LSB first, Gap=3276750us, Duration=68750us
+06:49:27.831 -> Send with: IrSender.sendNEC(0x0, 0x40, <numberOfRepeats>);
+06:49:27.831 -> NEC Command: 0x40
+06:49:27.906 -> Protocol=NEC Address=0x0, Command=0x40, Repeat, Gap=39750us, Duration=11950us
+06:49:27.913 -> NEC Command: 0x40
+06:49:35.883 -> Protocol=NEC Address=0x0, Command=0x40, Raw-Data=0xBF40FF00, 32 bits, LSB first, Gap=3276750us, Duration=68650us
+06:49:35.883 -> Send with: IrSender.sendNEC(0x0, 0x40, <numberOfRepeats>);
+06:49:35.883 -> NEC Command: 0x40
+06:49:35.914 -> Protocol=NEC Address=0x0, Command=0x40, Repeat, Gap=39850us, Duration=11900us
+06:49:35.946 -> NEC Command: 0x40
+06:49:36.043 -> Protocol=NEC Address=0x0, Command=0x40, Repeat, Gap=96600us, Duration=11900us
+06:49:36.043 -> NEC Command: 0x40
+06:49:39.710 -> Protocol=NEC Address=0x0, Command=0x40, Raw-Data=0xBF40FF00, 32 bits, LSB first, Gap=3276750us, Duration=68700us
+06:49:39.744 -> Send with: IrSender.sendNEC(0x0, 0x40, <numberOfRepeats>);
+06:49:39.744 -> NEC Command: 0x40
+06:49:39.778 -> Protocol=NEC Address=0x0, Command=0x40, Repeat, Gap=39800us, Duration=11950us
+06:49:39.778 -> NEC Command: 0x40
+06:49:39.877 -> Protocol=NEC Address=0x0, Command=0x40, Repeat, Gap=96550us, Duration=11900us
+06:49:39.877 -> NEC Command: 0x40
+
+Bluetooth	Raw-Data=0xB847FF00
+
+06:51:21.908 -> Protocol=NEC Address=0x0, Command=0x47, Raw-Data=0xB847FF00, 32 bits, LSB first, Gap=3276750us, Duration=68700us
+06:51:21.908 -> Send with: IrSender.sendNEC(0x0, 0x47, <numberOfRepeats>);
+06:51:21.908 -> NEC Command: 0x47
+06:51:21.972 -> Protocol=NEC Address=0x0, Command=0x47, Repeat, Gap=39800us, Duration=12000us
+06:51:21.972 -> NEC Command: 0x47
+06:51:27.895 -> Protocol=NEC Address=0x0, Command=0x47, Raw-Data=0xB847FF00, 32 bits, LSB first, Gap=3276750us, Duration=68700us
+06:51:27.895 -> Send with: IrSender.sendNEC(0x0, 0x47, <numberOfRepeats>);
+06:51:27.952 -> NEC Command: 0x47
+06:51:27.960 -> Protocol=NEC Address=0x0, Command=0x47, Repeat, Gap=39850us, Duration=11950us
+06:51:27.960 -> NEC Command: 0x47
+
+Volume – 	Raw-Data=0xE916FF00
+
+06:52:28.556 -> Protocol=NEC Address=0x0, Command=0x16, Raw-Data=0xE916FF00, 32 bits, LSB first, Gap=3276750us, Duration=68750us
+06:52:28.556 -> Send with: IrSender.sendNEC(0x0, 0x16, <numberOfRepeats>);
+06:52:28.556 -> NEC Command: 0x16
+06:52:28.588 -> Protocol=NEC Address=0x0, Command=0x16, Repeat, Gap=39750us, Duration=12000us
+06:52:28.621 -> NEC Command: 0x16
+06:52:28.720 -> Protocol=NEC Address=0x0, Command=0x16, Repeat, Gap=96500us, Duration=12000us
+06:52:28.720 -> NEC Command: 0x16
+06:52:30.862 -> Protocol=NEC Address=0x0, Command=0x16, Raw-Data=0xE916FF00, 32 bits, LSB first, Gap=2075600us, Duration=68700us
+06:52:30.862 -> Send with: IrSender.sendNEC(0x0, 0x16, <numberOfRepeats>);
+06:52:30.862 -> NEC Command: 0x16
+06:52:30.896 -> Protocol=NEC Address=0x0, Command=0x16, Repeat, Gap=39800us, Duration=11950us
+06:52:30.896 -> NEC Command: 0x16
+
+
+Volume + 	Raw-Data=0xF20DFF00
+
+
+06:53:49.166 -> Protocol=NEC Address=0x0, Command=0xD, Raw-Data=0xF20DFF00, 32 bits, LSB first, Gap=3276750us, Duration=68750us
+06:53:49.166 -> Send with: IrSender.sendNEC(0x0, 0xD, <numberOfRepeats>);
+06:53:49.166 -> NEC Command: 0xD
+06:53:49.199 -> Protocol=NEC Address=0x0, Command=0xD, Repeat, Gap=39750us, Duration=12000us
+06:53:49.199 -> NEC Command: 0xD
+06:53:54.388 -> Protocol=NEC Address=0x0, Command=0xD, Raw-Data=0xF20DFF00, 32 bits, LSB first, Gap=3276750us, Duration=68650us
+06:53:54.388 -> Send with: IrSender.sendNEC(0x0, 0xD, <numberOfRepeats>);
+06:53:54.388 -> NEC Command: 0xD
+06:53:54.446 -> Protocol=NEC Address=0x0, Command=0xD, Repeat, Gap=39850us, Duration=11950us
+06:53:54.446 -> NEC Command: 0xD
+
+
+Back	<< 	Raw-Data=0xE718FF00
+
+
+
+6:55:23.058 -> Protocol=NEC Address=0x0, Command=0x18, Raw-Data=0xE718FF00, 32 bits, LSB first, Gap=3276750us, Duration=68750us
+06:55:23.058 -> Send with: IrSender.sendNEC(0x0, 0x18, <numberOfRepeats>);
+06:55:23.058 -> NEC Command: 0x18
+06:55:23.124 -> Protocol=NEC Address=0x0, Command=0x18, Repeat, Gap=39750us, Duration=12000us
+06:55:23.124 -> NEC Command: 0x18
+06:55:25.699 -> Protocol=NEC Address=0x0, Command=0x18, Raw-Data=0xE718FF00, 32 bits, LSB first, Gap=2535500us, Duration=68700us
+06:55:25.732 -> Send with: IrSender.sendNEC(0x0, 0x18, <numberOfRepeats>);
+06:55:25.732 -> NEC Command: 0x18
+06:55:25.765 -> Protocol=NEC Address=0x0, Command=0x18, Repeat, Gap=39800us, Duration=12000us
+06:55:25.765 -> NEC Command: 0x18
+06:55:25.863 -> Protocol=NEC Address=0x0, Command=0x18, Repeat, Gap=96500us, Duration=11950us
+06:55:25.863 -> NEC Command: 0x18
+
+
+Forward 	>> 	Raw-Data=0xEA15FF00
+
+
+06:56:33.312 -> Protocol=NEC Address=0x0, Command=0x15, Raw-Data=0xEA15FF00, 32 bits, LSB first, Gap=3276750us, Duration=68750us
+06:56:33.312 -> Send with: IrSender.sendNEC(0x0, 0x15, <numberOfRepeats>);
+06:56:33.312 -> NEC Command: 0x15
+06:56:33.370 -> Protocol=NEC Address=0x0, Command=0x15, Repeat, Gap=39750us, Duration=12000us
+06:56:33.370 -> NEC Command: 0x15
+06:56:44.743 -> Protocol=NEC Address=0x0, Command=0x15, Raw-Data=0xEA15FF00, 32 bits, LSB first, Gap=3276750us, Duration=68700us
+06:56:44.803 -> Send with: IrSender.sendNEC(0x0, 0x15, <numberOfRepeats>);
+06:56:44.803 -> NEC Command: 0x15
+06:56:44.808 -> Protocol=NEC Address=0x0, Command=0x15, Repeat, Gap=39800us, Duration=11950us
+06:56:44.808 -> NEC Command: 0x15
+
+
+TV	SAMSUNG
+
+ON OFF
+07:02:19.710 -> Protocol=Samsung Address=0x7, Command=0x2, Raw-Data=0xFD020707, 32 bits, LSB first, Repeat, Gap=47650us, Duration=58900us
+07:02:36.691 -> Protocol=Samsung Address=0x7, Command=0x2, Raw-Data=0xFD020707, 32 bits, LSB first, Gap=3276750us, Duration=61450us
+07:02:36.691 -> Send with: IrSender.sendSamsung(0x7, 0x2, <numberOfRepeats>);
+07:02:36.790 -> Protocol=Samsung Address=0x7, Command=0x2, Raw-Data=0xFD020707, 32 bits, LSB first, Repeat, Gap=47000us, Duration=61450us
+
+
+VOLUME +
+
+COMAPNY
+7:05:18.558 -> Protocol=Samsung Address=0x7, Command=0x7, Raw-Data=0xF8070707, 32 bits, LSB first, Gap=3276750us, Duration=61450us
+07:05:18.558 -> Send with: IrSender.sendSamsung(0x7, 0x7, <numberOfRepeats>);
+
+07:05:18.686 -> Protocol=Samsung Address=0x7, Command=0x7, Raw-Data=0xF8070707, 32 bits, LSB first, Repeat, Gap=47000us, Duration=61400us
+07:06:31.577 -> Protocol=Samsung Address=0x7, Command=0x7, Raw-Data=0xF8070707, 32 bits, LSB first, Repeat, Gap=48900us, Duration=61650us
+
+
+VOLUME –
+07:07:01.707 -> Protocol=Samsung Address=0x7, Command=0xB, Raw-Data=0xF40B0707, 32 bits, LSB first, Gap=3276750us, Duration=61650us
+07:07:01.707 -> Send with: IrSender.sendSamsung(0x7, 0xB, <numberOfRepeats>);
+07:07:01.806 -> Protocol=Samsung Address=0x7, Command=0xB, Raw-Data=0xF40B0707, 32 bits, LSB first, Repeat, Gap=48350us, Duration=61600us
+
+
+MUTE
+:07:46.216 -> Protocol=Samsung Address=0x7, Command=0xF, Raw-Data=0xF00F0707, 32 bits, LSB first, Gap=3276750us, Duration=61600us
+07:07:46.216 -> Send with: IrSender.sendSamsung(0x7, 0xF, <numberOfRepeats>);
+
+SOURCE
+
+7:10:45.590 -> Protocol=Samsung Address=0x7, Command=0x1, Raw-Data=0xFE010707, 32 bits, LSB first, Gap=3276750us, Duration=61400us
+07:10:45.590 -> Send with: IrSender.sendSamsung(0x7, 0x1, <numberOfRepeats>);
+07:10:45.721 -> Protocol=Samsung Address=0x7, Command=0x1, Raw-Data=0xFE010707, 32 bits, LSB first, Repeat, Gap=47050us, Duration=61400us
+
+
+RIGHT
+07:11:47.743 -> Protocol=Samsung Address=0x7, Command=0x62, Raw-Data=0x9D620707, 32 bits, LSB first, Gap=3276750us, Duration=61400us
+07:11:47.804 -> Send with: IrSender.sendSamsung(0x7, 0x62, <numberOfRepeats>);
+LEFT
+07:12:49.205 -> Protocol=Samsung Address=0x7, Command=0x65, Raw-Data=0x9A650707, 32 bits, LSB first, Gap=3276750us, Duration=61450us
+07:12:49.205 -> Send with: IrSender.sendSamsung(0x7, 0x65, <numberOfRepeats>);
+07:12:49.303 -> Protocol=Samsung Address=0x7, Command=0x65, Raw-Data=0x9A650707, 32 bits, LSB first, Repeat, Gap=47000us, Duration=61450us
+DOWN
+07:13:25.095 -> Protocol=Samsung Address=0x7, Command=0x61, Raw-Data=0x9E610707, 32 bits, LSB first, Gap=3276750us, Duration=61450us
+07:13:25.095 -> Send with: IrSender.sendSamsung(0x7, 0x61, <numberOfRepeats>);
+07:13:25.194 -> Protocol=Samsung Address=0x7, Command=0x61, Raw-Data=0x9E610707, 32 bits, LSB first, Repeat, Gap=47000us, Duration=61450us
+UP
+07:13:46.484 -> Protocol=Samsung Address=0x7, Command=0x60, Raw-Data=0x9F600707, 32 bits, LSB first, Gap=3276750us, Duration=61450us
+07:13:46.484 -> Send with: IrSender.sendSamsung(0x7, 0x60, <numberOfRepeats>);
+07:13:46.616 -> Protocol=Samsung Address=0x7, Command=0x60, Raw-Data=0x9F600707, 32 bits, LSB first, Repeat, Gap=47000us, Duration=61400us
+ENTER
+07:14:18.291 -> Protocol=Samsung Address=0x7, Command=0x68, Raw-Data=0x97680707, 32 bits, LSB first, Gap=3276750us, Duration=61400us
+07:14:18.291 -> Send with: IrSender.sendSamsung(0x7, 0x68, <numberOfRepeats>);
+07:14:18.388 -> Protocol=Samsung Address=0x7, Command=0x68, Raw-Data=0x97680707, 32 bits, LSB first, Repeat, Gap=47050us, Duration=61400us
+
+
+RETURN 
+07:15:07.129 -> Protocol=Samsung Address=0x7, Command=0x58, Raw-Data=0xA7580707, 32 bits, LSB first, Gap=3276750us, Duration=61450us
+07:15:07.129 -> Send with: IrSender.sendSamsung(0x7, 0x58, <numberOfRepeats>);
+07:15:07.228 -> Protocol=Samsung Address=0x7, Command=0x58, Raw-Data=0xA7580707, 32 bits, LSB first, Repeat, Gap=47000us, Duration=61400us
+
+
+EXIT
+07:15:41.496 -> Protocol=Samsung Address=0x7, Command=0x2D, Raw-Data=0xD22D0707, 32 bits, LSB first, Gap=3276750us, Duration=61400us
+07:15:41.531 -> Send with: IrSender.sendSamsung(0x7, 0x2D, <numberOfRepeats>);
+07:15:44.203 -> Protocol=Samsung Address=0x7, Command=0x2D, Raw-Data=0xD22D0707, 32 bits, LSB first, Gap=2618750us, Duration=61400us
+
+
+MEDIA P
+07:16:39.008 -> Protocol=Samsung Address=0x7, Command=0x8C, Raw-Data=0x738C0707, 32 bits, LSB first, Gap=3276750us, Duration=61400us
+07:16:39.070 -> Send with: IrSender.sendSamsung(0x7, 0x8C, <numberOfRepeats>);
+07:16:39.143 -> Protocol=Samsung Address=0x7, Command=0x8C, Raw-Data=0x738C0707, 32 bits, LSB first, Repeat, Gap=47050us, Duration=61450us
+
+MENU
+07:18:17.763 -> Protocol=Samsung Address=0x7, Command=0x1A, Raw-Data=0xE51A0707, 32 bits, LSB first, Gap=3276750us, Duration=61350us
+07:18:17.763 -> Send with: IrSender.sendSamsung(0x7, 0x1A, <numberOfRepeats>);
+07:18:17.862 -> Protocol=Samsung Address=0x7, Command=0x1A, Raw-Data=0xE51A0707, 32 bits, LSB first, Repeat, Gap=47050us, Duration=61400us
+
+
+TOOLS
+
+07:18:45.371 -> Protocol=Samsung Address=0x7, Command=0x4B, Raw-Data=0xB44B0707, 32 bits, LSB first, Gap=3276750us, Duration=61400us
+07:18:45.371 -> Send with: IrSender.sendSamsung(0x7, 0x4B, <numberOfRepeats>);
+07:18:45.503 -> Protocol=Samsung Address=0x7, Command=0x4B, Raw-Data=0xB44B0707, 32 bits, LSB first, Repeat, Gap=47050us, Duration=61400us
+
+
+
+INFO
+07:19:28.855 -> Protocol=Samsung Address=0x7, Command=0x1F, Raw-Data=0xE01F0707, 32 bits, LSB first, Gap=3276750us, Duration=61350us
+07:19:28.888 -> Send with: IrSender.sendSamsung(0x7, 0x1F, <numberOfRepeats>);
+07:19:28.985 -> Protocol=Samsung Address=0x7, Command=0x1F, Raw-Data=0xE01F0707, 32 bits, LSB first, Repeat, Gap=47100us, Duration=61350us
+
+
+
+CH UP
+07:20:20.053 -> Protocol=Samsung Address=0x7, Command=0x12, Raw-Data=0xED120707, 32 bits, LSB first, Gap=3276750us, Duration=61400us
+07:20:20.053 -> Send with: IrSender.sendSamsung(0x7, 0x12, <numberOfRepeats>);
+07:20:20.148 -> Protocol=Samsung Address=0x7, Command=0x12, Raw-Data=0xED120707, 32 bits, LSB first, Repeat, Gap=47050us, Duration=61400us
+
+
+CH DOWN
+
+07:20:55.520 -> Protocol=Samsung Address=0x7, Command=0x10, Raw-Data=0xEF100707, 32 bits, LSB first, Gap=922550us, Duration=61400us
+07:20:55.553 -> Send with: IrSender.sendSamsung(0x7, 0x10, <numberOfRepeats>);
+07:20:55.651 -> Protocol=Samsung Address=0x7, Command=0x10, Raw-Data=0xEF100707, 32 bits, LSB first, Repeat, Gap=47050us, Duration=61400us
+
+
+
+FAST FORWARD 
+07:22:13.246 -> Send with: IrSender.sendSamsung(0x7, 0x48, <numberOfRepeats>);
+07:22:13.342 -> Protocol=Samsung Address=0x7, Command=0x48, Raw-Data=0xB7480707, 32 bits, LSB first, Repeat, Gap=47000us, Duration=61400us
+
+
+PLAY 
+07:22:45.916 -> Protocol=Samsung Address=0x7, Command=0x47, Raw-Data=0xB8470707, 32 bits, LSB first, Gap=3276750us, Duration=61450us
+07:22:45.916 -> Send with: IrSender.sendSamsung(0x7, 0x47, <numberOfRepeats>);
+07:22:46.015 -> Protocol=Samsung Address=0x7, Command=0x47, Raw-Data=0xB8470707, 32 bits, LSB first, Repeat, Gap=47000us, Duration=61400us
+
+BACK REWIND
+07:23:36.394 -> Protocol=Samsung Address=0x7, Command=0x45, Raw-Data=0xBA450707, 32 bits, LSB first, Gap=3276750us, Duration=61400us
+07:23:36.394 -> Send with: IrSender.sendSamsung(0x7, 0x45, <numberOfRepeats>);
+07:23:36.494 -> Protocol=Samsung Address=0x7, Command=0x45, Raw-Data=0xBA450707, 32 bits, LSB first, Repeat, Gap=47000us, Duration=61400us
+
+
+PAUSE
+07:24:52.336 -> Protocol=Samsung Address=0x7, Command=0x4A, Raw-Data=0xB54A0707, 32 bits, LSB first, Gap=3276750us, Duration=61400us
+07:24:52.336 -> Send with: IrSender.sendSamsung(0x7, 0x4A, <numberOfRepeats>);
+07:24:52.436 -> Protocol=Samsung Address=0x7, Command=0x4A, Raw-Data=0xB54A0707, 32 bits, LSB first, Repeat, Gap=47050us, Duration=61400us
+
+
+
+
+VOLTAS Cooler
+ON/OFF
+08:45:21.758 -> Protocol=PulseDistance, Raw-Data=0x5A41, 16 bits, LSB first, Gap=1340400us, Duration=31200us
+
+17:14:21.424 -> Protocol=PulseDistance, Raw-Data=0x5A41, 16 bits, LSB first, Gap=3276750us, Duration=31200us
+17:14:21.424 -> Send on a 32 bit platform with: IrSender.sendPulseDistanceWidth(38, 1550, 5550, 550, 1550, 550, 550, 0x5A41, 16, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:14:21.424 -> >>> TYPE: PulseDistance (Generic) detected.
+17:14:21.424 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:14:21.479 -> >>> RAW HEX (for logic): 0x5A41
+17:14:21.479 -> --------
+
+
+
+FAN SPEED 
+08:45:54.538 -> Protocol=PulseDistance, Raw-Data=0xE429, 16 bits, LSB first, Gap=3276750us, Duration=32250us
+08:45:55.741 -> Protocol=PulseDistance, Raw-Data=0xE429, 16 bits, LSB first, Gap=1151850us, Duration=32200us
+08:45:57.188 -> Protocol=PulseDistance, Raw-Data=0xE429, 16 bits, LSB first, Gap=1439450us, Duration=32250us
+08:45:59.260 -> Protocol=PulseDistance, Raw-Data=0xE429, 16 bits, LSB first, Gap=2024650us, Duration=32250us
+
+17:15:08.079 -> Protocol=PulseDistance, Raw-Data=0xE429, 16 bits, LSB first, Gap=3276750us, Duration=32200us
+17:15:08.079 -> Send on a 32 bit platform with: IrSender.sendPulseDistanceWidth(38, 1550, 5550, 550, 1550, 550, 550, 0xE429, 16, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:15:08.112 -> >>> TYPE: PulseDistance (Generic) detected.
+17:15:08.112 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:15:08.112 -> >>> RAW HEX (for logic): 0xE429
+17:15:08.112 -> ----------------------------------------
+
+SWING
+08:52:31.554 -> Protocol=PulseDistance, Raw-Data=0xBED3, 16 bits, LSB first, Gap=3276750us, Duration=36300us
+08:52:33.364 -> Protocol=PulseDistance, Raw-Data=0xBED3, 16 bits, LSB first, Gap=1776700us, Duration=36200us
+08:52:34.378 -> Protocol=PulseDistance, Raw-Data=0xBED3, 16 bits, LSB first, Gap=969350us, Duration=36300us
+
+
+17:15:36.678 -> Protocol=PulseDistance, Raw-Data=0xBED3, 16 bits, LSB first, Gap=3276750us, Duration=36200us
+17:15:36.678 -> Send on a 32 bit platform with: IrSender.sendPulseDistanceWidth(38, 1550, 5500, 600, 1500, 600, 500, 0xBED3, 16, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:15:36.711 -> >>> TYPE: PulseDistance (Generic) detected.
+17:15:36.711 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:15:36.711 -> >>> RAW HEX (for logic): 0xBED3
+
+COOL
+08:52:54.647 -> Protocol=PulseDistance, Raw-Data=0x52BB, 16 bits, LSB first, Gap=3276750us, Duration=34250us
+08:52:56.611 -> Protocol=PulseDistance, Raw-Data=0x52BB, 16 bits, LSB first, Gap=1939800us, Duration=34250us
+08:52:58.377 -> Protocol=PulseDistance, Raw-Data=0x52BB, 16 bits, LSB first, Gap=1728350us, Duration=34200us
+
+17:15:58.573 -> Protocol=PulseDistance, Raw-Data=0x52BB, 16 bits, LSB first, Gap=3276750us, Duration=34300us
+17:15:58.573 -> Send on a 32 bit platform with: IrSender.sendPulseDistanceWidth(38, 1650, 5400, 600, 1500, 600, 500, 0x52BB, 16, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:15:58.606 -> >>> TYPE: PulseDistance (Generic) detected.
+17:15:58.606 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:15:58.606 -> >>> RAW HEX (for logic): 0x52BB
+17:15:58.606 -> ------------------------------
+
+DRY
+08:53:26.224 -> Protocol=PulseDistance, Raw-Data=0x2F65, 16 bits, LSB first, Gap=792600us, Duration=34200us
+
+
+14.420 -> Protocol=PulseDistance, Raw-Data=0x2F65, 16 bits, LSB first, Gap=3276750us, Duration=34300us
+17:16:14.420 -> Send on a 32 bit platform with: IrSender.sendPulseDistanceWidth(38, 1650, 5450, 600, 1500, 600, 500, 0x2F65, 16, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:16:14.420 -> >>> TYPE: PulseDistance (Generic) detected.
+17:16:14.420 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:16:14.454 -> >>> RAW HEX (for logic): 0x2F65
+
+TIMER
+08:53:52.249 -> Protocol=PulseDistance, Raw-Data=0x920D, 16 bits, LSB first, Gap=597000us, Duration=31250us
+
+
+474 -> Protocol=PulseDistance, Raw-Data=0x920D, 16 bits, LSB first, Gap=3276750us, Duration=31250us
+17:16:34.474 -> Send on a 32 bit platform with: IrSender.sendPulseDistanceWidth(38, 1600, 5450, 600, 1450, 600, 500, 0x920D, 16, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:16:34.506 -> >>> TYPE: PulseDistance (Generic) detected.
+17:16:34.506 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:16:34.506 -> >>> RAW HEX (for logic): 0x920D
+
+DISPLAY
+08:54:28.748 -> Protocol=PulseDistance, Raw-Data=0xE8F7, 16 bits, LSB first, Gap=1785000us, Duration=36200us
+
+590 -> Protocol=PulseDistance, Raw-Data=0xE8F7, 16 bits, LSB first, Gap=3276750us, Duration=36250us
+17:16:55.590 -> Send on a 32 bit platform with: IrSender.sendPulseDistanceWidth(38, 1550, 5500, 550, 1550, 550, 550, 0xE8F7, 16, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:16:55.590 -> >>> TYPE: PulseDistance (Generic) detected.
+17:16:55.590 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:16:55.623 -> >>> RAW HEX (for logic): 0xE8F7
+
+
+KUHL FAN 
+
+ON/OFF
+17:03:49.959 -> Protocol=NEC Address=0x53, Command=0x8A, Raw-Data=0x758AAC53, 32 bits, LSB first, Gap=3276750us, Duration=67050us
+17:03:49.992 -> Protocol=NEC Address=0x53, Command=0x8A, Repeat, Gap=39050us, Duration=11750us
+
+SLEEP
+48.214 -> Protocol=NEC Address=0x53, Command=0x4B, Raw-Data=0xB44BAC53, 32 bits, LSB first, Gap=3276750us, Duration=66950us
+17:04:48.271 -> Protocol=NEC Address=0x53, Command=0x4B, Repeat, Gap=39150us, Duration=11750us
+
+1
+17:05:12.402 -> Protocol=NEC Address=0x53, Command=0x51, Raw-Data=0xAE51AC53, 32 bits, LSB first, Gap=3276750us, Duration=66950us
+17:05:12.467 -> Protocol=NEC Address=0x53, Command=0x51, Repeat, Gap=39100us, Duration=11750us
+
+2
+17:07:43.891 -> Protocol=NEC Address=0x53, Command=0x52, Raw-Data=0xAD52AC53, 32 bits, LSB first, Gap=3276750us, Duration=67050us
+
+3
+17:08:16.198 -> Protocol=NEC Address=0x53, Command=0x53, Raw-Data=0xAC53AC53, 32 bits, LSB first, Gap=3276750us, Duration=67000us
+17:08:16.230 -> Protocol=NEC Address=0x53, Command=0x53, Repeat, Gap=39100us, Duration=11700us
+
+4
+
+17:10:09.525 -> Protocol=NEC Address=0x53, Command=0x54, Raw-Data=0xAB54AC53, 32 bits, LSB first, Gap=3276750us, Duration=67000us
+17:10:09.582 -> Protocol=NEC Address=0x53, Command=0x54, Repeat, Gap=39150us, Duration=11700us
+
+
+5
+
+17:10:11.796 -> Protocol=NEC Address=0x53, Command=0x55, Raw-Data=0xAA55AC53, 32 bits, LSB first, Gap=2178500us, Duration=67050us
+17:10:11.976 -> Protocol=NEC Address=0x53, Command=0x55, Repeat, Gap=39050us, Duration=11800us
+
+Boost
+17:10:50.206 -> Protocol=NEC Address=0x53, Command=0x4C, Raw-Data=0xB34CAC53, 32 bits, LSB first, Gap=3276750us, Duration=67000us
+17:10:50.262 -> Protocol=NEC Address=0x53, Command=0x4C, Repeat, Gap=39100us, Duration=11700us
+
+
+Timer 
+1 hour 
+17:11:20.219 -> Protocol=NEC Address=0x53, Command=0x41, Raw-Data=0xBE41AC53, 32 bits, LSB first, Gap=3276750us, Duration=67000us
+17:11:20.285 -> Protocol=NEC Address=0x53, Command=0x41, Repeat, Gap=39100us, Duration=11700us
+
+4 hours 
+
+17:11:23.811 -> Protocol=NEC Address=0x53, Command=0x44, Raw-Data=0xBB44AC53, 32 bits, LSB first, Gap=3276750us, Duration=66950us
+17:11:23.868 -> Protocol=NEC Address=0x53, Command=0x44, Repeat, Gap=39100us, Duration=11750us
+
+
+
+8 hours
+
+17:11:27.738 -> Protocol=NEC Address=0x53, Command=0x48, Raw-Data=0xB748AC53, 32 bits, LSB first, Gap=3276750us, Duration=67000us
+17:11:27.771 -> Protocol=NEC Address=0x53, Command=0x48, Repeat, Gap=39050us, Duration=11750us
+
+
+Timer on 
+17:13:07.370 -> Protocol=NEC Address=0x53, Command=0x5A, Raw-Data=0xA55AAC53, 32 bits, LSB first, Gap=3276750us, Duration=67000us
+17:13:07.434 -> Protocol=NEC Address=0x53, Command=0x5A, Repeat, Gap=39100us, Duration=11700us
+
+
+Timer off
+
+17:13:09.014 -> Protocol=NEC Address=0x53, Command=0x5A, Raw-Data=0xA55AAC53, 32 bits, LSB first, Gap=1519950us, Duration=67050us
+17:13:09.081 -> Protocol=NEC Address=0x53, Command=0x5A, Repeat, Gap=39050us, Duration=11750us
+
+
+
+Raw timings are needed in 
+Voltas Cooler 
+Lloyd AC
+As they a of pulse length 
+
+LG OLD TV
+Power 
+03:47:49.077 -> Protocol=RC5 Address=0x0, Command=0xC, Raw-Data=0x100C, 13 bits, MSB first, Repeat, Gap=85050us, Duration=21950us
+03:47:49.077 -> >>> Standard Remote Detected! Command: 0xC
+03:47:49.077 -> 
+03:47:51.285 -> Protocol=RC5 Address=0x0, Command=0xC, Toggle=1, Raw-Data=0x180C, 13 bits, MSB first, Gap=2173800us, Duration=21950us
+03:47:51.285 -> >>> Standard Remote Detected! Command: 0xC
+
+
+Mute 
+
+03:48:27.496 -> Protocol=RC5 Address=0x0, Command=0xD, Toggle=1, Raw-Data=0x180D, 13 bits, MSB first, Repeat, Gap=84250us, Duration=22750us
+03:48:27.528 -> >>> Standard Remote Detected! Command: 0xD
+03:48:27.528 -> 
+03:48:28.255 -> Protocol=RC5 Address=0x0, Command=0xD, Raw-Data=0x100D, 13 bits, MSB first, Gap=737350us, Duration=22750us
+03:48:28.288 -> >>> Standard Remote Detected! Command: 0xD
+Channel 
+1
+03:48:59.798 -> Protocol=RC5 Address=0x0, Command=0x1, Toggle=1, Raw-Data=0x1801, 13 bits, MSB first, Repeat, Gap=84200us, Duration=22800us
+03:48:59.798 -> >>> Standard Remote Detected! Command: 0x1
+03:48:59.798 -> 
+03:49:01.079 -> Protocol=RC5 Address=0x0, Command=0x1, Raw-Data=0x1001, 13 bits, MSB first, Gap=1265800us, Duration=22700us
+03:49:01.079 -> >>> Standard Remote Detected! Command: 0x1
+03:49:01.079 -> 
+2
+03:49:33.481 -> Protocol=RC5 Address=0x0, Command=0x2, Toggle=1, Raw-Data=0x1802, 13 bits, MSB first, Repeat, Gap=85050us, Duration=21900us
+03:49:33.481 -> >>> Standard Remote Detected! Command: 0x2
+03:49:33.481 -> 
+03:49:39.689 -> Protocol=RC5 Address=0x0, Command=0x2, Raw-Data=0x1002, 13 bits, MSB first, Gap=3276750us, Duration=21900us
+03:49:39.689 -> >>> Standard Remote Detected! Command: 0x2
+3
+03:50:03.788 -> Protocol=RC5 Address=0x0, Command=0x3, Toggle=1, Raw-Data=0x1803, 13 bits, MSB first, Repeat, Gap=84200us, Duration=22800us
+03:50:03.821 -> >>> Standard Remote Detected! Command: 0x3
+03:50:03.821 -> 
+03:50:05.770 -> Protocol=RC5 Address=0x0, Command=0x3, Raw-Data=0x1003, 13 bits, MSB first, Gap=1934450us, Duration=22800us
+03:50:05.770 -> >>> Standard Remote Detected! Command: 0x3
+
+DUAL/*
+03:50:36.344 -> Protocol=RC5 Address=0x0, Command=0x23, Toggle=1, Raw-Data=0x1823, 13 bits, MSB first, Repeat, Gap=84200us, Duration=22750us
+03:50:36.344 -> >>> Standard Remote Detected! Command: 0x23
+03:50:36.344 -> 
+03:50:44.744 -> Protocol=RC5 Address=0x0, Command=0x23, Raw-Data=0x1023, 13 bits, MSB first, Gap=3276750us, Duration=22800us
+03:50:44.744 -> >>> Standard Remote Detected! Command: 0x23
+
+4
+03:51:09.531 -> Protocol=RC5 Address=0x0, Command=0x4, Toggle=1, Raw-Data=0x1804, 13 bits, MSB first, Repeat, Gap=85050us, Duration=21950us
+03:51:09.531 -> >>> Standard Remote Detected! Command: 0x4
+03:51:09.531 -> 
+03:51:13.365 -> Protocol=RC5 Address=0x0, Command=0x4, Raw-Data=0x1004, 13 bits, MSB first, Gap=3276750us, Duration=21900us
+03:51:13.365 -> >>> Standard Remote Detected! Command: 0x4
+
+5-9
+03:52:06.751 -> >>> Standard Remote Detected! Command: 0x7
+03:52:06.751 -> 
+03:52:13.197 -> Protocol=RC5 Address=0x0, Command=0x8, Toggle=1, Raw-Data=0x1808, 13 bits, MSB first, Gap=3276750us, Duration=21900us
+03:52:13.197 -> >>> Standard Remote Detected! Command: 0x8
+03:52:13.197 -> 
+03:52:13.293 -> Protocol=RC5 Address=0x0, Command=0x8, Toggle=1, Raw-Data=0x1808, 13 bits, MSB first, Repeat, Gap=85100us, Duration=21900us
+03:52:13.293 -> >>> Standard Remote Detected! Command: 0x8
+03:52:13.326 -> 
+03:52:17.162 -> Protocol=RC5 Address=0x0, Command=0x8, Raw-Data=0x1008, 13 bits, MSB first, Gap=3276750us, Duration=21900us
+03:52:17.162 -> >>> Standard Remote Detected! Command: 0x8
+03:52:17.162 -> 
+03:52:17.262 -> Protocol=RC5 Address=0x0, Command=0x8, Raw-Data=0x1008, 13 bits, MSB first, Repeat, Gap=85100us, Duration=21900us
+03:52:17.262 -> >>> Standard Remote Detected! Command: 0x8
+03:52:17.262 -> 
+03:52:23.759 -> Protocol=RC5 Address=0x0, Command=0x9, Toggle=1, Raw-Data=0x1809, 13 bits, MSB first, Gap=3276750us, Duration=22750us
+03:52:23.759 -> >>> Standard Remote Detected! Command: 0x9
+03:52:23.759 -> 
+03:52:23.857 -> Protocol=RC5 Address=0x0, Command=0x9, Toggle=1, Raw-Data=0x1809, 13 bits, MSB first, Repeat, Gap=84250us, Duration=22750us
+03:52:23.857 -> >>> Standard Remote Detected! Command: 0x9
+03:52:23.857 -> 
+03:52:29.376 -> Protocol=RC5 Address=0x0, Command=0x9, Raw-Data=0x1009, 13 bits, MSB first, Gap=3276750us, Duration=22750us
+03:52:29.438 -> >>> Standard Remote Detected! Command: 0x9
+03:52:29.438 -> 
+03:52:29.506 -> Protocol=RC5 Address=0x0, Command=0x9, Raw-Data=0x1009, 13 bits, MSB first, Repeat, Gap=84200us, Duration=22750us
+03:52:29.506 -> >>> Standard Remote Detected! Command: 0x9
+03:52:29.506 -> 
+Ln 41, Col 2
+ESP32-WROOM-DA Module
+on /dev/cu.usbserial-0001
+2
+
+
+
+ARC
+03:53:01.842 -> Protocol=RC5 Address=0x0, Command=0x33, Toggle=1, Raw-Data=0x1833, 13 bits, MSB first, Gap=3276750us, Duration=22750us
+03:53:01.842 -> >>> Standard Remote Detected! Command: 0x33
+03:53:01.842 -> 
+03:53:01.939 -> Protocol=RC5 Address=0x0, Command=0x33, Toggle=1, Raw-Data=0x1833, 13 bits, MSB first, Repeat, Gap=84200us, Duration=22750us
+03:53:01.939 -> >>> Standard Remote Detected! Command: 0x33
+03:53:01.939 -> 
+03:53:03.646 -> Protocol=RC5 Address=0x0, Command=0x33, Raw-Data=0x1033, 13 bits, MSB first, Gap=1681800us, Duration=22800us
+03:53:03.646 -> >>> Standard Remote Detected! Command: 0x33
+03:53:03.646 -> 
+03:53:03.744 -> Protocol=RC5 Address=0x0, Command=0x33, Raw-Data=0x1033, 13 bits, MSB first, Repeat, Gap=84200us, Duration=22750us
+03:53:03.744 -> >>> Standard Remote Detected! Command: 0x33
+03:53:03.744 -> 
+
+
+TV/AV
+
+03:53:29.747 -> Protocol=RC5 Address=0x0, Command=0x38, Toggle=1, Raw-Data=0x1838, 13 bits, MSB first, Gap=3276750us, Duration=21950us
+03:53:29.747 -> >>> Standard Remote Detected! Command: 0x38
+03:53:29.747 -> 
+03:53:29.845 -> Protocol=RC5 Address=0x0, Command=0x38, Toggle=1, Raw-Data=0x1838, 13 bits, MSB first, Repeat, Gap=85050us, Duration=21950us
+03:53:29.845 -> >>> Standard Remote Detected! Command: 0x38
+03:53:29.845 -> 
+03:53:33.065 -> Protocol=RC5 Address=0x0, Command=0x38, Raw-Data=0x1038, 13 bits, MSB first, Gap=3192850us, Duration=21850us
+03:53:33.065 -> >>> Standard Remote Detected! Command: 0x38
+03:53:33.065 -> 
+03:53:33.163 -> Protocol=RC5 Address=0x0, Command=0x38, Raw-Data=0x1038, 13 bits, MSB first, Repeat, Gap=85100us, Duration=21900us
+03:53:33.163 -> >>> Standard Remote Detected! Command: 0x38
+03:53:33.163 -> 
+
+
+
+Q View
+
+03:54:34.357 -> Protocol=RC5 Address=0x0, Command=0x22, Raw-Data=0x1022, 13 bits, MSB first, Gap=3276750us, Duration=21950us
+03:54:34.357 -> >>> Standard Remote Detected! Command: 0x22
+03:54:34.357 -> 
+03:54:34.456 -> Protocol=RC5 Address=0x0, Command=0x22, Raw-Data=0x1022, 13 bits, MSB first, Repeat, Gap=85050us, Duration=21950us
+03:54:34.456 -> >>> Standard Remote Detected! Command: 0x22
+03:54:34.456 -> 
+03:54:36.624 -> Protocol=RC5 Address=0x0, Command=0x22, Toggle=1, Raw-Data=0x1822, 13 bits, MSB first, Gap=2131750us, Duration=21900us
+03:54:36.624 -> >>> Standard Remote Detected! Command: 0x22
+03:54:36.624 -> 
+03:54:36.723 -> Protocol=RC5 Address=0x0, Command=0x22, Toggle=1, Raw-Data=0x1822, 13 bits, MSB first, Repeat, Gap=85050us, Duration=21900us
+03:54:36.723 -> >>> Standard Remote Detected! Command: 0x22
+
+0
+
+03:55:19.742 -> Protocol=RC5 Address=0x0, Command=0x0, Raw-Data=0x1000, 13 bits, MSB first, Gap=3276750us, Duration=21950us
+03:55:19.742 -> >>> Standard Remote Detected! Command: 0x0
+03:55:19.775 -> 
+03:55:19.840 -> Protocol=RC5 Address=0x0, Command=0x0, Raw-Data=0x1000, 13 bits, MSB first, Repeat, Gap=85050us, Duration=21900us
+03:55:19.874 -> >>> Standard Remote Detected! Command: 0x0
+03:55:19.874 -> 
+03:55:21.122 -> Protocol=RC5 Address=0x0, Command=0x0, Toggle=1, Raw-Data=0x1800, 13 bits, MSB first, Gap=1255550us, Duration=21900us
+03:55:21.154 -> >>> Standard Remote Detected! Command: 0x0
+03:55:21.154 -> 
+03:55:21.253 -> Protocol=RC5 Address=0x0, Command=0x0, Toggle=1, Raw-Data=0x1800, 13 bits, MSB first, Repeat, Gap=85050us, Duration=21900us
+03:55:21.253 -> >>> Standard Remote Detected! Command: 0x0
+
+PSM
+03:55:39.581 -> Protocol=RC5 Address=0x0, Command=0xE, Raw-Data=0x100E, 13 bits, MSB first, Gap=3276750us, Duration=21900us
+03:55:39.581 -> >>> Standard Remote Detected! Command: 0xE
+03:55:39.581 -> 
+03:55:39.679 -> Protocol=RC5 Address=0x0, Command=0xE, Raw-Data=0x100E, 13 bits, MSB first, Repeat, Gap=85050us, Duration=21900us
+03:55:39.679 -> >>> Standard Remote Detected! Command: 0xE
+03:55:39.679 -> 
+03:55:40.991 -> Protocol=RC5 Address=0x0, Command=0xE, Toggle=1, Raw-Data=0x180E, 13 bits, MSB first, Gap=1292450us, Duration=21950us
+03:55:40.991 -> >>> Standard Remote Detected! Command: 0xE
+03:55:40.991 -> 
+03:55:41.088 -> Protocol=RC5 Address=0x0, Command=0xE, Toggle=1, Raw-Data=0x180E, 13 bits, MSB first, Repeat, Gap=85050us, Duration=21900us
+03:55:41.088 -> >>> Standard Remote Detected! Command: 0xE
+
+
+
+MENU
+03:56:04.636 -> Protocol=RC5 Address=0x0, Command=0x3B, Toggle=1, Raw-Data=0x183B, 13 bits, MSB first, Gap=1965150us, Duration=22700us
+03:56:04.636 -> >>> Standard Remote Detected! Command: 0x3B
+03:56:04.636 -> 
+03:56:04.732 -> Protocol=RC5 Address=0x0, Command=0x3B, Toggle=1, Raw-Data=0x183B, 13 bits, MSB first, Repeat, Gap=84250us, Duration=22750us
+03:56:04.765 -> >>> Standard Remote Detected! Command: 0x3B
+03:56:04.765 -> 
+03:56:07.862 -> Protocol=RC5 Address=0x0, Command=0x3B, Raw-Data=0x103B, 13 bits, MSB first, Gap=3090900us, Duration=22700us
+03:56:07.862 -> >>> Standard Remote Detected! Command: 0x3B
+03:56:07.862 -> 
+03:56:07.959 -> Protocol=RC5 Address=0x0, Command=0x3B, Raw-Data=0x103B, 13 bits, MSB first, Repeat, Gap=84250us, Duration=22750us
+03:56:07.959 -> >>> Standard Remote Detected! Command: 0x3B
+
+
+UP
+3:56:41.733 -> Protocol=RC5 Address=0x0, Command=0x20, Toggle=1, Raw-Data=0x1820, 13 bits, MSB first, Gap=3276750us, Duration=21900us
+03:56:41.733 -> >>> Standard Remote Detected! Command: 0x20
+03:56:41.733 -> 
+03:56:41.832 -> Protocol=RC5 Address=0x0, Command=0x20, Toggle=1, Raw-Data=0x1820, 13 bits, MSB first, Repeat, Gap=85050us, Duration=21950us
+03:56:41.866 -> >>> Standard Remote Detected! Command: 0x20
+03:56:41.866 -> 
+03:56:43.113 -> Protocol=RC5 Address=0x0, Command=0x20, Raw-Data=0x1020, 13 bits, MSB first, Gap=1232750us, Duration=21900us
+03:56:43.113 -> >>> Standard Remote Detected! Command: 0x20
+03:56:43.113 -> 
+03:56:43.211 -> Protocol=RC5 Address=0x0, Command=0x20, Raw-Data=0x1020, 13 bits, MSB first, Repeat, Gap=85100us, Duration=21950us
+03:56:43.211 -> >>> Standard Remote Detected! Command: 0x20
+
+DOWN
+3:57:02.938 -> Protocol=RC5 Address=0x0, Command=0x21, Toggle=1, Raw-Data=0x1821, 13 bits, MSB first, Gap=3276750us, Duration=22750us
+03:57:02.938 -> >>> Standard Remote Detected! Command: 0x21
+03:57:02.971 -> 
+03:57:03.034 -> Protocol=RC5 Address=0x0, Command=0x21, Toggle=1, Raw-Data=0x1821, 13 bits, MSB first, Repeat, Gap=84250us, Duration=22700us
+03:57:03.067 -> >>> Standard Remote Detected! Command: 0x21
+03:57:03.067 -> 
+03:57:04.715 -> Protocol=RC5 Address=0x0, Command=0x21, Raw-Data=0x1021, 13 bits, MSB first, Gap=1633100us, Duration=22700us
+03:57:04.715 -> >>> Standard Remote Detected! Command: 0x21
+03:57:04.715 -> 
+03:57:04.813 -> Protocol=RC5 Address=0x0, Command=0x21, Raw-Data=0x1021, 13 bits, MSB first, Repeat, Gap=84300us, Duration=22700us
+03:57:04.813 -> >>> Standard Remote Detected! Command: 0x21
+
+
+RIGHT
+3:57:32.353 -> Protocol=RC5 Address=0x0, Command=0x10, Toggle=1, Raw-Data=0x1810, 13 bits, MSB first, Gap=3276750us, Duration=21900us
+03:57:32.353 -> >>> Standard Remote Detected! Command: 0x10
+03:57:32.412 -> 
+03:57:32.450 -> Protocol=RC5 Address=0x0, Command=0x10, Toggle=1, Raw-Data=0x1810, 13 bits, MSB first, Repeat, Gap=85100us, Duration=21900us
+03:57:32.483 -> >>> Standard Remote Detected! Command: 0x10
+03:57:32.483 -> 
+03:57:34.788 -> Protocol=RC5 Address=0x0, Command=0x10, Raw-Data=0x1010, 13 bits, MSB first, Gap=2309650us, Duration=21900us
+03:57:34.821 -> >>> Standard Remote Detected! Command: 0x10
+03:57:34.821 -> 
+03:57:34.920 -> Protocol=RC5 Address=0x0, Command=0x10, Raw-Data=0x1010, 13 bits, MSB first, Repeat, Gap=85050us, Duration=21950us
+03:57:34.920 -> >>> Standard Remote Detected! Command: 0x10
+03:57:34.920 -> 
+
+LEFT
+3:58:00.750 -> Protocol=RC5 Address=0x0, Command=0x11, Raw-Data=0x1011, 13 bits, MSB first, Gap=3276750us, Duration=22800us
+03:58:00.750 -> >>> Standard Remote Detected! Command: 0x11
+03:58:00.806 -> 
+03:58:00.847 -> Protocol=RC5 Address=0x0, Command=0x11, Raw-Data=0x1011, 13 bits, MSB first, Repeat, Gap=84200us, Duration=22750us
+03:58:00.879 -> >>> Standard Remote Detected! Command: 0x11
+03:58:00.879 -> 
+03:58:05.105 -> Protocol=RC5 Address=0x0, Command=0x11, Toggle=1, Raw-Data=0x1811, 13 bits, MSB first, Gap=3276750us, Duration=22750us
+03:58:05.105 -> >>> Standard Remote Detected! Command: 0x11
+03:58:05.105 -> 
+03:58:05.202 -> Protocol=RC5 Address=0x0, Command=0x11, Toggle=1, Raw-Data=0x1811, 13 bits, MSB first, Repeat, Gap=84200us, Duration=22750us
+03:58:05.202 -> >>> Standard Remote Detected! Command: 0x11
+03:58:05.202 -> 
+
+OK
+03:58:22.956 -> Protocol=RC5 Address=0x0, Command=0x25, Raw-Data=0x1025, 13 bits, MSB first, Gap=3276750us, Duration=22750us
+03:58:23.013 -> >>> Standard Remote Detected! Command: 0x25
+03:58:23.013 -> 
+03:58:23.088 -> Protocol=RC5 Address=0x0, Command=0x25, Raw-Data=0x1025, 13 bits, MSB first, Repeat, Gap=84200us, Duration=22750us
+03:58:23.088 -> >>> Standard Remote Detected! Command: 0x25
+03:58:23.088 -> 
+03:58:25.129 -> Protocol=RC5 Address=0x0, Command=0x25, Toggle=1, Raw-Data=0x1825, 13 bits, MSB first, Gap=2042250us, Duration=22800us
+03:58:25.162 -> >>> Standard Remote Detected! Command: 0x25
+03:58:25.162 -> 
+03:58:25.261 -> Protocol=RC5 Address=0x0, Command=0x25, Toggle=1, Raw-Data=0x1825, 13 bits, MSB first, Repeat, Gap=84150us, Duration=22750us
+03:58:25.261 -> >>> Standard Remote Detected! Command: 0x25
+
+SURROUND
+3:59:03.153 -> Protocol=RC5 Address=0x0, Command=0x24, Raw-Data=0x1024, 13 bits, MSB first, Gap=3276750us, Duration=21900us
+03:59:03.153 -> >>> Standard Remote Detected! Command: 0x24
+03:59:03.153 -> 
+03:59:03.251 -> Protocol=RC5 Address=0x0, Command=0x24, Raw-Data=0x1024, 13 bits, MSB first, Repeat, Gap=85100us, Duration=21900us
+03:59:03.284 -> >>> Standard Remote Detected! Command: 0x24
+03:59:03.284 -> 
+03:59:04.669 -> Protocol=RC5 Address=0x0, Command=0x24, Toggle=1, Raw-Data=0x1824, 13 bits, MSB first, Gap=1379250us, Duration=21900us
+03:59:04.669 -> >>> Standard Remote Detected! Command: 0x24
+03:59:04.669 -> 
+03:59:04.767 -> Protocol=RC5 Address=0x0, Command=0x24, Toggle=1, Raw-Data=0x1824, 13 bits, MSB first, Repeat, Gap=85050us, Duration=21950us
+03:59:04.767 -> >>> Standard Remote Detected! Command: 0x24
+03:59:04.767 -> 
+
+SSM
+
+3:59:25.790 -> Protocol=RC5 Address=0x0, Command=0x16, Raw-Data=0x1016, 13 bits, MSB first, Gap=3276750us, Duration=21900us
+03:59:25.790 -> >>> Standard Remote Detected! Command: 0x16
+03:59:25.790 -> 
+03:59:25.889 -> Protocol=RC5 Address=0x0, Command=0x16, Raw-Data=0x1016, 13 bits, MSB first, Repeat, Gap=85100us, Duration=21900us
+03:59:25.889 -> >>> Standard Remote Detected! Command: 0x16
+03:59:25.889 -> 
+03:59:26.944 -> Protocol=RC5 Address=0x0, Command=0x16, Toggle=1, Raw-Data=0x1816, 13 bits, MSB first, Gap=1055900us, Duration=21900us
+03:59:26.977 -> >>> Standard Remote Detected! Command: 0x16
+03:59:26.977 -> 
+03:59:27.075 -> Protocol=RC5 Address=0x0, Command=0x16, Toggle=1, Raw-Data=0x1816, 13 bits, MSB first, Repeat, Gap=85100us, Duration=21900us
+03:59:27.075 -> >>> Standard Remote Detected! Command: 0x16
+
+EYE
+
+3:59:47.923 -> Protocol=RC5 Address=0x0, Command=0x12, Raw-Data=0x1012, 13 bits, MSB first, Gap=3276750us, Duration=21900us
+03:59:47.923 -> >>> Standard Remote Detected! Command: 0x12
+03:59:47.923 -> 
+03:59:48.022 -> Protocol=RC5 Address=0x0, Command=0x12, Raw-Data=0x1012, 13 bits, MSB first, Repeat, Gap=85050us, Duration=21950us
+03:59:48.022 -> >>> Standard Remote Detected! Command: 0x12
+03:59:48.022 -> 
+03:59:49.304 -> Protocol=RC5 Address=0x0, Command=0x12, Toggle=1, Raw-Data=0x1812, 13 bits, MSB first, Gap=1269300us, Duration=21900us
+03:59:49.304 -> >>> Standard Remote Detected! Command: 0x12
+03:59:49.337 -> 
+03:59:49.433 -> Protocol=RC5 Address=0x0, Command=0x12, Toggle=1, Raw-Data=0x1812, 13 bits, MSB first, Repeat, Gap=85100us, Duration=21900us
+03:59:49.433 -> >>> Standard Remote Detected! Command: 0x12
+03:59:49.433 -> 
+
+
+
+Lloyd ac Final codes
+#include <IRremote.hpp>
+
+// Define the pin where your IR Receiver is connected
+const int IR_RECEIVE_PIN = 15; 
+
+void setup() {
+    Serial.begin(115200);
+    
+    // Start the receiver
+    IrReceiver.begin(IR_RECEIVE_PIN, ENABLE_LED_FEEDBACK);
+    
+    Serial.println("----------------------------------------");
+    Serial.println("READY TO DECODE SIGNALS");
+    Serial.println("Point your remote and press a button...");
+    Serial.println("----------------------------------------");
+}
+
+void loop() {
+    if (IrReceiver.decode()) {
+        
+        // 1. Print the basic summary (Protocol, Address, Command, etc.)
+        // This gives you the "PulseDistance" or "NEC" line you saw in your screenshots.
+        IrReceiver.printIRResultShort(&Serial);
+
+        // 2. Print the Raw Timing Array
+        // This is CRITICAL for "PulseDistance" or "Unknown" signals.
+        // It prints the "uint16_t rawIRTimings[] = {...}" block automatically.
+        IrReceiver.printIRSendUsage(&Serial);
+
+        // 3. Custom Logic to Separate Protocols
+        if (IrReceiver.decodedIRData.protocol == NEC) {
+            Serial.println(">>> TYPE: Standard NEC detected.");
+            Serial.print(">>> Use this to send: IrSender.sendNEC(0x");
+            Serial.print(IrReceiver.decodedIRData.address, HEX);
+            Serial.print(", 0x");
+            Serial.print(IrReceiver.decodedIRData.command, HEX);
+            Serial.println(", 0);");
+        } 
+        else if (IrReceiver.decodedIRData.protocol == PULSE_DISTANCE) {
+            Serial.println(">>> TYPE: PulseDistance (Generic) detected.");
+            Serial.println(">>> DATA: Copy the 'rawIRTimings' array printed above to send this.");
+            Serial.print(">>> RAW HEX (for logic): 0x");
+            Serial.println(IrReceiver.decodedIRData.decodedRawData, HEX);
+        }
+        else if (IrReceiver.decodedIRData.protocol == UNKNOWN) {
+            Serial.println(">>> TYPE: Unknown Protocol.");
+            Serial.println(">>> ACTION: You MUST use the 'rawIRTimings' array printed above.");
+        }
+
+        Serial.println("----------------------------------------");
+        
+        // Resume listening for the next signal
+        IrReceiver.resume(); 
+    }
+}
+
+
+
+
+LLOYD AC
+
+OFF
+
+
+04:00:25.300 -> Protocol=PulseDistance, Raw-Data=0xC000000008800, 119 bits, LSB first, Gap=3276750us, Duration=229900us
+04:00:25.300 -> >>> PULSE_DISTANCE Detected! Hex Code: 0xC000000008800
+
+16:43:22.346 ->  +1050,- 550 +1000,- 550 +1050,- 550 +1050,-2500
+16:43:22.346 ->  +1100,-2500 +1050,-2500 +1050,-2500 +1100,-2500
+16:43:22.346 ->  +1050,-2500 +1100,-2500 +1050,- 550 +1050,-2500
+16:43:22.346 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:43:22.346 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1000,- 550
+16:43:22.346 ->  +1050,- 550 +1050,-2500 +1100,- 550 +1050,- 550
+16:43:22.346 ->  +1000,- 550 +1050,-2500 +1050,-2550 +1050,- 550
+16:43:22.350 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:43:22.350 ->  +1050,- 550 +1050,- 500 +1100,- 500 +1100,- 500
+16:43:22.350 ->  +1100,- 500 +1100,- 500 +1100,- 500 +1100,- 500
+16:43:22.350 ->  +1050,- 550 +1050,- 500 +1100,- 500 +1050,- 550
+16:43:22.350 ->  +1050,- 550 +1050,- 550 +1050,- 500 +1100,- 500
+16:43:22.350 ->  +1100,- 500 +1050,- 550 +1050,- 550 +1050,- 550
+16:43:22.350 ->  +1050,- 550 +1000,- 600 +1000,- 600 +1000,- 600
+16:43:22.380 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 550
+16:43:22.380 ->  +1050,- 550 +1000,- 600 +1000,- 600 +1000,- 600
+16:43:22.380 ->  +1000,- 600 + 950,- 650 +1000,- 600 +1000,-2600
+16:43:22.380 ->  + 950,- 600 + 950,- 650 +1000,- 600 +1000,-2600
+16:43:22.380 ->  + 950,- 650 + 950,- 600 +1000,- 600 +1000,- 600
+16:43:22.380 ->  +1000,- 600 +1000,- 600 +1000,- 600 + 950,- 650
+16:43:22.380 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:43:22.380 ->  + 950,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:43:22.413 ->  +1000,- 600 +1000,- 600 + 950,- 650 + 950,- 650
+16:43:22.413 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:43:22.413 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:43:22.413 ->  + 950,- 650 + 900,- 650 + 950,- 650 + 950,- 650
+16:43:22.413 ->  + 950,- 650 + 950,- 650 + 950,-2650 + 900,-2700
+16:43:22.413 ->  + 850,- 700 + 900,- 700 + 900,- 700 + 900
+16:43:22.413 -> Duration=229900us
+
+
+ON
+08:24:07.743 -> Protocol=PulseDistance, Raw-Data=0x8000, 119 bits, LSB first, Gap=1073800us, Duration=221950us
+
+4:00:56.426 -> Protocol=PulseDistance, Raw-Data=0xC800000008800, 119 bits, LSB first, Gap=3276750us, Duration=233850us
+04:00:56.426 -> >>> PULSE_DISTANCE Detected! Hex Code: 0xC800000008800
+
+
+
+16:41:20.137 ->  +1050,-2500 +1050,-2500 +1100,- 550 +1050,- 550
+16:41:20.137 ->  +1000,- 550 +1050,- 550 +1050,- 550 +1050,-2500
+16:41:20.137 ->  +1100,-2500 +1050,-2500 +1050,-2500 +1100,-2500
+16:41:20.144 ->  +1050,-2500 +1050,-2550 +1000,- 600 +1050,-2500
+16:41:20.144 ->  +1050,- 550 +1100,- 500 +1100,- 500 +1100,-2450
+16:41:20.144 ->  +1100,- 500 +1100,- 500 +1100,- 500 +1100,- 500
+16:41:20.144 ->  +1100,- 450 +1100,-2500 +1050,- 550 +1050,- 550
+16:41:20.144 ->  +1050,- 500 +1100,-2500 +1050,-2500 +1100,- 500
+16:41:20.144 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:41:20.176 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:41:20.176 ->  +1000,- 600 +1000,- 600 +1000,- 550 +1050,- 550
+16:41:20.176 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:41:20.176 ->  +1000,- 600 +1000,- 600 + 950,- 650 +1000,- 600
+16:41:20.176 ->  + 950,- 600 +1000,- 600 +1000,- 650 + 950,- 650
+16:41:20.176 ->  + 950,- 600 +1000,- 600 + 950,- 650 +1000,- 600
+16:41:20.176 ->  +1000,- 600 + 950,- 650 + 950,- 650 + 950,- 650
+16:41:20.176 ->  + 950,- 650 + 950,- 600 +1000,- 600 +1000,- 600
+16:41:20.176 ->  +1000,- 600 +1000,- 600 +1000,- 600 + 950,-2600
+16:41:20.209 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,-2600
+16:41:20.209 ->  + 950,- 650 + 950,- 600 +1000,- 600 +1000,- 600
+16:41:20.209 ->  +1000,- 600 +1000,- 600 + 950,- 650 + 950,- 650
+16:41:20.209 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:41:20.209 ->  + 900,- 700 + 900,- 700 + 900,- 700 + 900,- 700
+16:41:20.209 ->  + 900,- 700 + 900,- 700 + 900,- 650 + 950,- 650
+16:41:20.209 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:41:20.209 ->  + 900,- 700 + 900,- 700 + 900,- 700 + 900,- 700
+16:41:20.241 ->  + 900,- 700 + 900,- 700 + 900,- 700 + 900,-2650
+16:41:20.241 ->  + 900,- 750 + 850,- 700 + 900,-2700 + 850,-2750
+16:41:20.241 ->  + 800,- 800 + 800,- 800 + 800,- 800 + 800
+16:41:20.241 -> Duration=233850us
+16:41:20.241 -> 
+
+Temprature Raw Data
+08:27:18.038 -> Protocol=PulseDistance, Raw-Data=0xA800000008800, 119 bits, LSB first, Gap=2465250us, Duration=231950us
+08:27:41.077 -> Protocol=PulseDistance, Raw-Data=0x12800000008800, 117 bits, LSB first, Gap=3276750us, Duration=230700us
+08:27:59.270 -> Protocol=PulseDistance, Raw-Data=0x12800000008800, 119 bits, LSB first, Gap=3276750us, Duration=233850us
+08:28:08.889 -> Protocol=PulseDistance, Raw-Data=0x22800000008800, 119 bits, LSB first, Gap=3276750us, Duration=235850us
+08:28:11.130 -> Protocol=PulseDistance, Raw-Data=0x2800000008800, 119 bits, LSB first, Gap=2008800us, Duration=231950us
+08:28:13.307 -> Protocol=PulseDistance, Raw-Data=0x1C800000008800, 117 bits, LSB first, Gap=1933600us, Duration=234600us
+08:28:15.880 -> Protocol=PulseDistance, Raw-Data=0x1C800000008800, 119 bits, LSB first, Gap=2361500us, Duration=237850us
+08:28:19.085 -> Protocol=PulseDistance, Raw-Data=0x2C800000008800, 119 bits, LSB first, Gap=2963950us, Duration=239800us
+08:28:24.162 -> Protocol=PulseDistance, Raw-Data=0xC800000008800, 119 bits, LSB first, Gap=3276750us, Duration=233900us
+08:28:26.768 -> Protocol=PulseDistance, Raw-Data=0x34800000008800, 119 bits, LSB first, Gap=2381650us, Duration=237900us
+08:28:28.908 -> Protocol=PulseDistance, Raw-Data=0x14800000008800, 119 bits, LSB first, Gap=1893600us, Duration=235900us
+08:28:31.081 -> Protocol=PulseDistance, Raw-Data=0x24800000008800, 119 bits, LSB first, Gap=1943450us, Duration=237850us
+08:28:34.022 -> Protocol=PulseDistance, Raw-Data=0x4800000008800, 119 bits, LSB first, Gap=2694250us, Duration=233950us
+08:29:06.067 -> Protocol=PulseDistance, Raw-Data=0x38800000008800, 119 bits, LSB first, Gap=3137550us, Duration=239800us
+08:29:08.911 -> Protocol=PulseDistance, Raw-Data=0x18800000008800, 119 bits, LSB first, Gap=2625050us, Duration=237900us
+
+OFF AT 30 
+08:30:15.001 -> Protocol=PulseDistance, Raw-Data=0x18000000008800, 119 bits, LSB first, Gap=1793850us, Duration=233800us
+
+
+
+Temperature 16 to 30
+
+16
+
+16:53:39.957 ->  +1100,-2450 +1100,-2450 +1150,- 500 +1050,- 550
+16:53:39.957 ->  +1050,- 550 +1050,- 500 +1100,- 500 +1100,-2450
+16:53:39.957 ->  +1100,-2500 +1100,-2450 +1100,-2450 +1100,-2500
+16:53:39.957 ->  +1050,-2500 +1100,-2500 +1050,- 550 +1050,-2500
+16:53:39.957 ->  +1050,- 600 +1000,- 600 +1000,- 550 +1050,-2500
+16:53:39.957 ->  +1100,- 500 +1100,- 500 +1050,- 550 +1050,- 550
+16:53:39.957 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:53:39.966 ->  +1050,- 550 +1050,-2500 +1050,- 550 +1050,- 550
+16:53:39.966 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1000,- 600
+16:53:39.966 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:53:39.966 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 550
+16:53:39.966 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:53:39.966 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:53:39.966 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:53:39.966 ->  + 950,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:53:39.998 ->  +1000,- 650 + 950,- 650 + 950,- 600 +1000,- 600
+16:53:39.998 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:53:39.998 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:53:39.998 ->  + 950,- 650 + 950,- 650 + 950,- 600 +1000,-2600
+16:53:39.998 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:53:39.998 ->  + 950,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:53:39.998 ->  +1000,- 600 +1000,- 600 +1000,- 600 + 950,- 650
+16:53:40.030 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:53:40.030 ->  + 950,- 650 + 900,- 700 + 900,- 700 + 900,- 700
+16:53:40.030 ->  + 900,- 700 + 900,- 700 + 900,- 700 + 900,- 650
+16:53:40.030 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:53:40.030 ->  + 950,- 650 + 900,- 700 + 900,- 700 + 900,-2650
+16:53:40.030 ->  + 950,- 650 + 950,-2650 + 900,-2700 + 850,- 750
+16:53:40.030 ->  + 850,- 700 + 900,-2700 + 900,- 700 + 900
+16:53:40.063 -> Duration=230050us
+16:53:40.063 -> 
+
+
+17
+
+16:54:07.388 ->  +1050,-2500 +1050,-2500 +1100,- 550 +1050,- 550
+16:54:07.388 ->  +1050,- 550 +1050,- 550 +1050,- 500 +1050,-2500
+16:54:07.388 ->  +1100,-2500 +1050,-2500 +1100,-2450 +1100,-2500
+16:54:07.388 ->  +1050,-2500 +1100,-2500 +1050,- 550 +1050,-2500
+16:54:07.420 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,-2500
+16:54:07.420 ->  +1100,- 550 +1000,- 550 +1050,- 550 +1050,- 550
+16:54:07.420 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:54:07.420 ->  +1050,- 550 +1050,-2500 +1050,- 550 +1050,- 550
+16:54:07.420 ->  +1050,- 550 +1050,-2500 +1050,- 550 +1050,- 550
+16:54:07.420 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:54:07.420 ->  +1050,- 550 +1050,- 550 +1050,- 500 +1100,- 500
+16:54:07.452 ->  +1100,- 500 +1100,- 500 +1100,- 500 +1100,- 500
+16:54:07.452 ->  +1050,- 550 +1050,- 500 +1100,- 500 +1100,- 500
+16:54:07.452 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:54:07.452 ->  +1050,- 550 +1000,- 600 +1000,- 600 +1000,- 600
+16:54:07.452 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:54:07.452 ->  +1000,- 550 +1050,- 550 +1000,- 600 +1000,- 600
+16:54:07.452 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:54:07.452 ->  +1000,- 600 +1000,- 600 +1000,- 600 + 950,-2600
+16:54:07.483 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:54:07.483 ->  +1000,- 600 + 950,- 650 + 950,- 650 + 950,- 650
+16:54:07.483 ->  + 950,- 650 + 950,- 650 + 950,- 600 +1000,- 600
+16:54:07.483 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:54:07.483 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:54:07.483 ->  + 950,- 650 + 900,- 700 + 900,- 700 + 900,- 700
+16:54:07.483 ->  + 900,- 700 + 900,- 700 + 900,- 650 + 950,- 650
+16:54:07.483 ->  + 950,- 650 + 950,- 650 + 950,- 700 + 850,-2700
+16:54:07.516 ->  + 900,- 700 + 900,-2650 + 900,-2700 + 900,- 700
+16:54:07.516 ->  + 850,- 800 + 800,- 750 + 850,- 750 + 850
+16:54:07.516 -> Duration=229950us
+16:54:07.516 -> 
+
+
+18
+
+16:54:34.498 ->  +1100,-2450 +1100,-2450 +1150,- 500 +1050,- 550
+16:54:34.498 ->  +1050,- 550 +1050,- 500 +1100,- 500 +1100,-2450
+16:54:34.498 ->  +1100,-2500 +1100,-2450 +1100,-2450 +1150,-2450
+16:54:34.530 ->  +1100,-2450 +1100,-2450 +1150,- 500 +1100,-2450
+16:54:34.530 ->  +1100,- 500 +1100,- 500 +1100,- 500 +1100,-2450
+16:54:34.530 ->  +1100,- 500 +1100,- 500 +1100,- 500 +1100,- 500
+16:54:34.530 ->  +1100,- 500 +1100,- 500 +1050,- 550 +1050,- 550
+16:54:34.530 ->  +1050,- 550 +1050,-2450 +1100,- 550 +1050,- 550
+16:54:34.530 ->  +1050,-2500 +1050,- 550 +1050,- 550 +1050,- 550
+16:54:34.530 ->  +1050,- 550 +1050,- 500 +1050,- 550 +1050,- 550
+16:54:34.530 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:54:34.562 ->  +1050,- 500 +1100,- 500 +1100,- 500 +1050,- 550
+16:54:34.562 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:54:34.562 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:54:34.562 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:54:34.562 ->  +1000,- 550 +1000,- 600 +1000,- 600 +1000,- 600
+16:54:34.562 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:54:34.562 ->  +1000,- 600 +1000,- 600 +1000,- 600 + 950,- 600
+16:54:34.594 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,-2600
+16:54:34.594 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:54:34.594 ->  + 950,- 650 + 950,- 600 +1000,- 600 +1000,- 600
+16:54:34.594 ->  +1000,- 600 +1000,- 600 +1000,- 600 + 950,- 650
+16:54:34.594 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 600
+16:54:34.594 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:54:34.594 ->  +1000,- 600 + 950,- 650 + 950,- 650 + 950,- 650
+16:54:34.627 ->  + 950,- 650 + 950,- 650 + 950,- 600 +1000,- 600
+16:54:34.627 ->  +1000,- 600 +1000,- 600 + 950,- 700 + 900,-2650
+16:54:34.627 ->  + 900,- 700 + 900,-2650 + 950,- 650 + 950,-2650
+16:54:34.627 ->  + 900,-2650 + 900,-2650 + 950,- 650 + 950
+16:54:34.627 -> Duration=233900us
+16:54:34.627 -> 
+
+
+19
+
+16:54:58.756 ->  +1050,-2500 +1100,-2500 +1050,- 550 +1050,- 550
+16:54:58.756 ->  +1050,- 550 +1000,- 600 +1050,- 550 +1050,-2500
+16:54:58.818 ->  +1050,-2500 +1050,-2550 +1050,-2500 +1050,-2500
+16:54:58.818 ->  +1100,-2500 +1050,-2500 +1100,- 550 +1000,-2550
+16:54:58.818 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1000,-2550
+16:54:58.818 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:54:58.818 ->  +1000,- 600 +1000,- 600 +1000,- 550 +1050,- 550
+16:54:58.818 ->  +1050,- 550 +1000,-2550 +1050,- 550 +1050,- 550
+16:54:58.818 ->  +1050,-2500 +1100,-2500 +1050,- 550 +1000,- 600
+16:54:58.821 ->  +1000,- 600 +1050,- 500 +1100,- 500 +1050,- 550
+16:54:58.821 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:54:58.821 ->  +1050,- 550 +1000,- 600 +1000,- 600 +1000,- 600
+16:54:58.821 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:54:58.821 ->  +1000,- 600 +1000,- 550 +1050,- 550 +1000,- 600
+16:54:58.821 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:54:58.821 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:54:58.851 ->  + 950,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:54:58.851 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:54:58.851 ->  +1000,- 600 +1000,- 600 +1000,- 600 + 950,-2600
+16:54:58.851 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:54:58.851 ->  +1000,- 600 + 950,- 650 + 950,- 650 + 950,- 650
+16:54:58.851 ->  + 950,- 650 + 950,- 650 + 950,- 600 +1000,- 600
+16:54:58.851 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:54:58.851 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:54:58.885 ->  + 950,- 650 + 950,- 600 +1000,- 600 +1000,- 600
+16:54:58.885 ->  +1000,- 600 +1000,- 600 +1000,- 600 + 950,- 650
+16:54:58.885 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,-2600
+16:54:58.885 ->  + 950,- 650 + 950,-2600 + 950,- 650 + 950,-2650
+16:54:58.885 ->  + 950,-2600 + 950,- 650 + 950,- 650 + 950
+16:54:58.885 -> Duration=233950us
+16:54:58.885 -> 
+16:54:58.885 -> ---------------------------------
+
+
+20
+
+16:55:20.896 ->  +1050,-2500 +1050,-2500 +1100,- 550 +1050,- 550
+16:55:20.896 ->  +1000,- 600 +1000,- 550 +1050,- 550 +1050,-2500
+16:55:20.896 ->  +1100,-2500 +1050,-2500 +1050,-2500 +1100,-2500
+16:55:20.896 ->  +1050,-2500 +1100,-2500 +1050,- 550 +1050,-2500
+16:55:20.896 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,-2500
+16:55:20.896 ->  +1100,- 550 +1050,- 550 +1050,- 500 +1100,- 500
+16:55:20.896 ->  +1100,- 500 +1100,- 500 +1100,- 500 +1100,- 500
+16:55:20.896 ->  +1100,- 500 +1100,-2450 +1100,- 500 +1100,-2450
+16:55:20.928 ->  +1100,- 500 +1050,- 550 +1050,- 550 +1050,- 550
+16:55:20.928 ->  +1050,- 550 +1050,- 550 +1050,- 500 +1100,- 500
+16:55:20.928 ->  +1100,- 500 +1050,- 550 +1050,- 550 +1050,- 550
+16:55:20.928 ->  +1050,- 550 +1050,- 550 +1000,- 600 +1000,- 600
+16:55:20.928 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:55:20.928 ->  +1000,- 600 +1000,- 600 + 950,- 600 +1000,- 600
+16:55:20.928 ->  +1000,- 600 +1000,- 650 + 950,- 650 + 950,- 600
+16:55:20.960 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:55:20.960 ->  +1000,- 600 + 950,- 650 + 950,- 650 + 950,- 650
+16:55:20.960 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 600
+16:55:20.960 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,-2600
+16:55:20.960 ->  + 950,- 650 + 950,- 600 +1000,- 600 +1000,- 600
+16:55:20.960 ->  +1000,- 600 +1000,- 600 +1000,- 600 + 950,- 650
+16:55:20.960 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:55:20.992 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 900,- 700
+16:55:20.992 ->  + 900,- 700 + 900,- 700 + 900,- 700 + 900,- 650
+16:55:20.992 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:55:20.992 ->  + 950,- 650 + 900,- 700 + 900,- 700 + 900,- 700
+16:55:20.992 ->  + 900,- 700 + 900,- 700 + 900,- 700 + 900,-2650
+16:55:20.992 ->  + 900,- 700 + 900,-2700 + 900,- 700 + 850,-2750
+16:55:20.992 ->  + 850,- 700 + 900,-2700 + 850,- 750 + 850
+16:55:20.992 -> Duration=231950us
+16:55:20.992 -> 
+16:55:20.992 -> ------------------------------------------------
+
+
+
+21
+
+16:55:37.124 ->  +1050,-2500 +1100,-2450 +1100,- 550 +1050,- 500
+16:55:37.124 ->  +1100,- 500 +1100,- 500 +1150,- 450 +1100,-2450
+16:55:37.124 ->  +1100,-2450 +1150,-2450 +1100,-2450 +1100,-2500
+16:55:37.124 ->  +1100,-2450 +1100,-2450 +1150,- 500 +1100,-2450
+16:55:37.124 ->  +1100,- 500 +1100,- 500 +1100,- 500 +1100,-2450
+16:55:37.124 ->  +1100,- 500 +1100,- 500 +1100,- 500 +1100,- 500
+16:55:37.124 ->  +1100,- 500 +1100,- 500 +1100,- 500 +1050,- 550
+16:55:37.155 ->  +1050,- 550 +1050,-2450 +1150,- 500 +1050,-2500
+16:55:37.155 ->  +1100,- 500 +1100,-2450 +1100,- 500 +1100,- 500
+16:55:37.155 ->  +1100,- 500 +1100,- 500 +1050,- 550 +1050,- 550
+16:55:37.155 ->  +1050,- 500 +1100,- 500 +1100,- 500 +1100,- 500
+16:55:37.155 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:55:37.155 ->  +1050,- 550 +1050,- 550 +1050,- 500 +1100,- 500
+16:55:37.155 ->  +1100,- 500 +1050,- 550 +1050,- 600 +1000,- 550
+16:55:37.155 ->  +1050,- 550 +1050,- 550 +1000,- 600 +1000,- 600
+16:55:37.187 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:55:37.187 ->  +1000,- 600 +1000,- 600 +1000,- 600 + 950,- 600
+16:55:37.187 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:55:37.187 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,-2600
+16:55:37.187 ->  + 950,- 650 + 950,- 650 + 950,- 600 +1000,- 600
+16:55:37.187 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:55:37.187 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:55:37.219 ->  + 950,- 650 + 950,- 600 +1000,- 600 +1000,- 600
+16:55:37.219 ->  +1000,- 600 +1000,- 600 +1000,- 600 + 950,- 650
+16:55:37.219 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:55:37.219 ->  + 950,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:55:37.219 ->  +1000,- 600 + 950,- 650 + 950,- 650 + 950,-2600
+16:55:37.219 ->  + 950,- 700 + 900,-2650 + 950,- 650 + 900,-2650
+16:55:37.219 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950
+16:55:37.252 -> Duration=231950us
+16:55:37.252 -> 
+
+
+22
+
+16:56:26.994 ->  +1100,-2450 +1150,-2400 +1100,- 550 +1050,- 500
+16:56:26.994 ->  +1100,- 500 +1100,- 500 +1100,- 500 +1100,-2450
+16:56:26.994 ->  +1100,-2450 +1150,-2450 +1100,-2450 +1100,-2500
+16:56:26.994 ->  +1100,-2450 +1100,-2450 +1150,- 500 +1050,-2500
+16:56:26.994 ->  +1100,- 500 +1100,- 500 +1100,- 500 +1050,-2500
+16:56:26.994 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:56:26.994 ->  +1050,- 500 +1100,- 500 +1100,- 500 +1100,- 500
+16:56:26.994 ->  +1100,- 500 +1050,-2550 +1050,- 500 +1100,-2500
+16:56:27.026 ->  +1050,-2500 +1050,- 550 +1050,- 550 +1050,- 550
+16:56:27.026 ->  +1050,- 550 +1050,- 550 +1000,- 600 +1000,- 600
+16:56:27.026 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:56:27.026 ->  +1000,- 600 +1000,- 600 +1000,- 550 +1000,- 600
+16:56:27.026 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:56:27.026 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:56:27.026 ->  +1000,- 600 +1000,- 600 + 950,- 650 + 950,- 650
+16:56:27.058 ->  + 950,- 650 + 950,- 650 + 950,- 600 +1000,- 600
+16:56:27.058 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:56:27.058 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:56:27.058 ->  + 950,- 650 + 950,- 600 +1000,- 600 +1000,-2600
+16:56:27.058 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 600
+16:56:27.058 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:56:27.058 ->  +1000,- 600 + 950,- 650 + 950,- 650 + 950,- 650
+16:56:27.089 ->  + 950,- 650 + 950,- 650 + 900,- 700 + 900,- 650
+16:56:27.089 ->  + 950,- 650 + 950,- 700 + 900,- 700 + 900,- 650
+16:56:27.089 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:56:27.089 ->  + 950,- 650 + 900,- 700 + 900,- 700 + 900,- 700
+16:56:27.089 ->  + 900,- 700 + 900,- 700 + 900,- 650 + 950,-2650
+16:56:27.089 ->  + 900,- 700 + 900,-2700 + 900,- 700 + 850,- 700
+16:56:27.089 ->  + 900,-2700 + 900,-2650 + 900,- 750 + 850
+16:56:27.089 -> Duration=233900us
+16:56:27.089 -> 
+
+
+
+23
+
+
+16:56:56.868 ->  +1050,-2500 +1050,-2500 +1100,- 550 +1050,- 550
+16:56:56.868 ->  +1050,- 550 +1000,- 550 +1050,- 550 +1050,-2500
+16:56:56.868 ->  +1100,-2500 +1050,-2500 +1100,-2450 +1100,-2500
+16:56:56.868 ->  +1050,-2500 +1100,-2500 +1050,- 550 +1050,-2500
+16:56:56.868 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,-2500
+16:56:56.868 ->  +1100,- 500 +1050,- 550 +1050,- 550 +1050,- 550
+16:56:56.868 ->  +1050,- 550 +1100,- 500 +1050,- 550 +1050,- 550
+16:56:56.875 ->  +1050,- 550 +1050,-2500 +1100,- 500 +1100,-2450
+16:56:56.875 ->  +1100,-2450 +1150,-2450 +1100,- 500 +1100,- 500
+16:56:56.875 ->  +1100,- 500 +1100,- 500 +1100,- 500 +1050,- 550
+16:56:56.875 ->  +1050,- 550 +1050,- 500 +1100,- 500 +1100,- 500
+16:56:56.875 ->  +1100,- 500 +1100,- 500 +1100,- 450 +1100,- 500
+16:56:56.875 ->  +1100,- 500 +1100,- 500 +1100,- 500 +1050,- 550
+16:56:56.875 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:56:56.875 ->  +1050,- 550 +1000,- 600 +1000,- 600 +1000,- 600
+16:56:56.907 ->  +1000,- 600 +1000,- 600 +1000,- 550 +1050,- 550
+16:56:56.907 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:56:56.907 ->  +1000,- 600 +1000,- 600 + 950,- 650 +1000,- 600
+16:56:56.907 ->  + 950,- 650 +1000,- 600 + 950,- 600 +1000,-2600
+16:56:56.907 ->  +1000,- 600 +1000,- 600 +1000,- 600 + 950,- 650
+16:56:56.907 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:56:56.908 ->  + 950,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:56:56.941 ->  +1000,- 600 +1000,- 600 + 950,- 650 + 950,- 650
+16:56:56.941 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 600
+16:56:56.941 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:56:56.941 ->  +1000,- 600 + 950,- 650 + 950,- 650 + 950,- 650
+16:56:56.941 ->  + 950,- 650 + 950,- 650 + 900,- 650 + 950,-2650
+16:56:56.941 ->  + 950,- 650 + 950,-2650 + 900,- 700 + 900,- 650
+16:56:56.941 ->  + 950,-2650 + 900,- 700 + 900,- 700 + 900
+16:56:56.974 -> Duration=233900us
+16:56:56.974 -> 
+16:56:56.974 -> --------------
+
+
+24
+
+16:57:12.732 ->  +1050,-2500 +1100,-2450 +1100,- 500 +1100,- 500
+16:57:12.732 ->  +1050,- 550 +1050,- 550 +1100,- 500 +1050,-2500
+16:57:12.732 ->  +1050,-2500 +1100,-2500 +1050,-2500 +1100,-2500
+16:57:12.743 ->  +1050,-2500 +1050,-2500 +1100,- 550 +1050,-2500
+16:57:12.743 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,-2500
+16:57:12.743 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 500
+16:57:12.743 ->  +1100,- 500 +1100,- 500 +1100,- 500 +1050,- 550
+16:57:12.743 ->  +1050,- 550 +1050,-2500 +1100,-2500 +1050,- 550
+16:57:12.743 ->  +1050,- 550 +1050,- 550 +1000,- 550 +1050,- 550
+16:57:12.743 ->  +1050,- 600 +1000,- 600 +1000,- 550 +1050,- 550
+16:57:12.775 ->  +1050,- 550 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:12.775 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:12.775 ->  +1000,- 600 +1000,- 600 + 950,- 600 +1000,- 600
+16:57:12.775 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:12.775 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:12.775 ->  +1000,- 600 + 950,- 650 + 950,- 650 + 950,- 650
+16:57:12.775 ->  + 950,- 650 + 950,- 600 +1000,- 600 +1000,- 600
+16:57:12.775 ->  +1000,- 600 +1000,- 600 +1000,- 600 + 950,- 650
+16:57:12.807 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,-2600
+16:57:12.807 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:57:12.807 ->  + 950,- 650 + 950,- 600 +1000,- 600 +1000,- 600
+16:57:12.807 ->  +1000,- 600 +1000,- 600 +1000,- 600 + 950,- 650
+16:57:12.807 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:57:12.807 ->  + 900,- 650 + 950,- 700 + 900,- 700 + 900,- 700
+16:57:12.807 ->  + 900,- 700 + 900,- 650 + 950,- 650 + 950,- 650
+16:57:12.840 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 900,- 700
+16:57:12.840 ->  + 900,- 700 + 900,- 700 + 900,- 700 + 900,-2700
+16:57:12.840 ->  + 850,- 700 + 900,-2700 + 900,- 700 + 900,- 700
+16:57:12.840 ->  + 900,- 700 + 850,-2700 + 900,- 700 + 900
+16:57:12.840 -> Duration=229950us
+16:57:12.840 -> 
+
+
+25
+
+16:57:28.355 ->  +1050,-2500 +1100,-2450 +1100,- 550 +1050,- 500
+16:57:28.355 ->  +1100,- 500 +1100,- 500 +1050,- 550 +1050,-2500
+16:57:28.355 ->  +1100,-2450 +1150,-2450 +1050,-2500 +1100,-2500
+16:57:28.355 ->  +1100,-2450 +1100,-2500 +1050,- 550 +1050,-2500
+16:57:28.355 ->  +1050,- 550 +1050,- 550 +1100,- 500 +1050,-2500
+16:57:28.355 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:57:28.387 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:57:28.387 ->  +1050,- 550 +1000,-2550 +1050,-2500 +1050,- 550
+16:57:28.387 ->  +1050,- 550 +1050,-2500 +1050,- 550 +1050,- 550
+16:57:28.387 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:57:28.387 ->  +1050,- 550 +1050,- 550 +1050,- 500 +1100,- 500
+16:57:28.387 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:57:28.387 ->  +1050,- 550 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:28.419 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:28.419 ->  +1000,- 600 +1000,- 600 + 950,- 600 +1000,- 600
+16:57:28.419 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:28.419 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:28.419 ->  +1000,- 600 +1000,- 550 +1000,- 600 +1000,- 600
+16:57:28.419 ->  +1000,- 650 + 950,- 650 + 950,- 600 +1000,-2600
+16:57:28.419 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:57:28.419 ->  + 950,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:28.451 ->  +1000,- 600 +1000,- 600 + 950,- 650 + 950,- 650
+16:57:28.451 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 600
+16:57:28.451 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:28.451 ->  +1000,- 600 + 950,- 650 + 950,- 650 + 950,- 650
+16:57:28.451 ->  + 950,- 650 + 950,- 650 + 900,- 650 +1000,- 600
+16:57:28.451 ->  + 950,- 650 + 950,- 700 + 900,- 700 + 900,-2650
+16:57:28.451 ->  + 900,- 700 + 900,-2650 + 950,- 650 + 950,- 650
+16:57:28.483 ->  + 950,- 650 + 900,- 700 + 900,- 700 + 900
+16:57:28.483 -> Duration=229950us
+16:57:28.483 -> 
+
+
+
+26
+
+
+16:57:42.250 ->  +1050,-2500 +1100,-2450 +1100,- 550 +1050,- 550
+16:57:42.250 ->  +1050,- 550 +1050,- 500 +1100,- 500 +1050,-2500
+16:57:42.250 ->  +1100,-2500 +1100,-2450 +1100,-2450 +1100,-2500
+16:57:42.250 ->  +1050,-2500 +1100,-2500 +1100,- 500 +1100,-2450
+16:57:42.250 ->  +1100,- 500 +1050,- 550 +1050,- 550 +1050,-2500
+16:57:42.256 ->  +1100,- 500 +1050,- 550 +1050,- 550 +1050,- 550
+16:57:42.256 ->  +1100,- 500 +1100,- 500 +1050,- 550 +1050,- 550
+16:57:42.256 ->  +1050,- 550 +1050,-2500 +1050,-2500 +1050,- 550
+16:57:42.256 ->  +1050,-2500 +1100,- 550 +1000,- 600 +1000,- 600
+16:57:42.256 ->  +1000,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:57:42.256 ->  +1050,- 550 +1050,- 500 +1100,- 500 +1100,- 500
+16:57:42.256 ->  +1100,- 500 +1050,- 550 +1050,- 550 +1050,- 550
+16:57:42.256 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:57:42.287 ->  +1000,- 550 +1050,- 600 +1000,- 600 +1000,- 600
+16:57:42.288 ->  +1000,- 600 +1000,- 550 +1050,- 550 +1000,- 600
+16:57:42.288 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:42.288 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:42.288 ->  + 950,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:42.288 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,-2550
+16:57:42.288 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:42.320 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:42.320 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:57:42.320 ->  + 950,- 650 + 950,- 600 +1000,- 600 +1000,- 600
+16:57:42.320 ->  +1000,- 600 +1000,- 600 +1000,- 600 + 950,- 650
+16:57:42.320 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:57:42.320 ->  + 950,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:42.320 ->  +1000,- 600 +1000,- 600 + 950,- 650 + 950,-2600
+16:57:42.354 ->  +1000,- 600 + 950,- 650 + 950,-2650 + 900,-2650
+16:57:42.354 ->  + 950,-2650 + 900,-2650 + 950,- 650 + 950
+16:57:42.354 -> Duration=235900us
+16:57:42.354 -> 
+
+
+27
+
+16:57:59.449 ->  +1100,-2450 +1100,-2450 +1150,- 500 +1100,- 500
+16:57:59.449 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,-2450
+16:57:59.449 ->  +1100,-2500 +1100,-2450 +1100,-2500 +1050,-2500
+16:57:59.449 ->  +1100,-2500 +1050,-2500 +1050,- 550 +1050,-2500
+16:57:59.449 ->  +1100,- 550 +1050,- 550 +1000,- 600 +1000,-2500
+16:57:59.449 ->  +1100,- 550 +1050,- 550 +1050,- 550 +1000,- 600
+16:57:59.449 ->  +1000,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:57:59.481 ->  +1050,- 550 +1050,-2500 +1050,-2500 +1100,- 500
+16:57:59.481 ->  +1100,-2500 +1050,-2500 +1050,- 550 +1050,- 550
+16:57:59.481 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1000,- 600
+16:57:59.481 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:59.481 ->  +1000,- 600 +1000,- 600 +1000,- 550 +1050,- 550
+16:57:59.481 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:59.481 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:59.481 ->  +1000,- 600 +1000,- 600 + 950,- 600 +1000,- 600
+16:57:59.513 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:59.513 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:59.513 ->  +1000,- 600 + 950,- 650 + 950,- 650 + 950,- 650
+16:57:59.513 ->  + 950,- 650 + 950,- 650 + 950,- 600 +1000,-2600
+16:57:59.513 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 600
+16:57:59.513 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:59.513 ->  +1000,- 600 + 950,- 650 + 950,- 650 + 950,- 650
+16:57:59.545 ->  + 950,- 650 + 950,- 650 + 950,- 600 +1000,- 600
+16:57:59.545 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:57:59.545 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:57:59.545 ->  + 950,- 650 + 900,- 700 + 900,- 700 + 900,- 700
+16:57:59.545 ->  + 900,- 700 + 900,- 700 + 900,- 650 + 950,-2650
+16:57:59.545 ->  + 900,- 700 + 900,- 700 + 900,-2650 + 900,-2650
+16:57:59.545 ->  + 950,-2650 + 900,- 700 + 900,- 700 + 900
+16:57:59.578 -> Duration=235900us
+16:57:59.578 -> 
+
+
+
+28
+
+
+16:58:13.400 ->  +1050,-2500 +1050,-2500 +1100,- 550 +1050,- 550
+16:58:13.400 ->  +1000,- 600 +1000,- 550 +1050,- 550 +1050,-2500
+16:58:13.400 ->  +1100,-2500 +1050,-2500 +1050,-2500 +1100,-2500
+16:58:13.406 ->  +1050,-2500 +1100,-2500 +1050,- 550 +1050,-2500
+16:58:13.406 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,-2500
+16:58:13.406 ->  +1100,- 550 +1050,- 500 +1100,- 500 +1100,- 500
+16:58:13.406 ->  +1100,- 500 +1100,- 500 +1100,- 500 +1100,- 500
+16:58:13.406 ->  +1100,- 450 +1100,-2500 +1100,-2450 +1100,-2500
+16:58:13.406 ->  +1050,- 500 +1100,- 500 +1100,- 500 +1100,- 500
+16:58:13.406 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:58:13.406 ->  +1050,- 550 +1000,- 600 +1000,- 600 +1000,- 600
+16:58:13.439 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:58:13.439 ->  +1000,- 550 +1050,- 550 +1000,- 600 +1000,- 600
+16:58:13.439 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:58:13.439 ->  +1000,- 600 +1000,- 600 +1000,- 600 + 950,- 650
+16:58:13.439 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:58:13.439 ->  + 950,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:58:13.439 ->  +1000,- 600 +1000,- 600 + 950,- 650 + 950,- 650
+16:58:13.471 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,-2600
+16:58:13.471 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:58:13.471 ->  + 950,- 650 + 950,- 600 +1000,- 600 +1000,- 600
+16:58:13.471 ->  +1000,- 600 +1000,- 600 + 950,- 650 + 950,- 650
+16:58:13.471 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:58:13.471 ->  + 900,- 700 + 900,- 700 + 900,- 700 + 900,- 700
+16:58:13.471 ->  + 900,- 700 + 900,- 650 + 950,- 650 + 950,- 650
+16:58:13.504 ->  + 950,- 650 + 950,- 650 + 900,- 700 + 900,- 700
+16:58:13.504 ->  + 900,- 700 + 900,- 700 + 900,- 700 + 900,-2700
+16:58:13.504 ->  + 850,- 750 + 850,- 750 + 850,-2700 + 850,-2750
+16:58:13.504 ->  + 800,- 800 + 800,-2850 + 750,- 850 + 750
+16:58:13.504 -> Duration=233900us
+16:58:13.504 -> 
+16:58:13.504 -> -----------
+
+
+29
+
+16:58:27.490 ->  +1100,-2450 +1100,-2500 +1100,- 500 +1100,- 500
+16:58:27.490 ->  +1100,- 500 +1050,- 550 +1050,- 550 +1050,-2500
+16:58:27.490 ->  +1100,-2450 +1050,-2500 +1100,-2500 +1050,-2500
+16:58:27.490 ->  +1100,-2500 +1050,-2500 +1050,- 600 +1000,-2500
+16:58:27.490 ->  +1100,- 550 +1050,- 550 +1000,- 600 +1000,-2550
+16:58:27.490 ->  +1050,- 500 +1100,- 500 +1100,- 500 +1050,- 550
+16:58:27.490 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:58:27.523 ->  +1050,- 550 +1050,-2500 +1050,-2500 +1100,-2500
+16:58:27.523 ->  +1050,- 550 +1000,-2550 +1050,- 600 +1000,- 550
+16:58:27.523 ->  +1050,- 550 +1000,- 600 +1000,- 600 +1000,- 600
+16:58:27.523 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:58:27.523 ->  +1000,- 600 +1000,- 600 + 950,- 600 +1000,- 600
+16:58:27.523 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:58:27.523 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:58:27.555 ->  +1000,- 600 + 950,- 600 +1000,- 600 +1000,- 650
+16:58:27.555 ->  + 950,- 650 + 950,- 650 + 950,- 600 +1000,- 600
+16:58:27.555 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:58:27.555 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:58:27.555 ->  + 950,- 600 +1000,- 600 +1000,- 600 +1000,-2600
+16:58:27.555 ->  + 950,- 650 + 950,- 650 + 950,- 600 +1000,- 600
+16:58:27.555 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+16:58:27.555 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:58:27.587 ->  + 950,- 650 + 950,- 650 + 900,- 650 + 950,- 700
+16:58:27.587 ->  + 900,- 700 + 900,- 700 + 900,- 700 + 900,- 650
+16:58:27.587 ->  + 950,- 650 + 950,- 650 + 950,- 650 + 950,- 650
+16:58:27.587 ->  + 900,- 700 + 900,- 700 + 900,- 700 + 900,- 700
+16:58:27.587 ->  + 900,- 700 + 900,- 700 + 900,- 650 + 950,-2650
+16:58:27.587 ->  + 900,- 700 + 900,- 700 + 900,-2700 + 850,-2700
+16:58:27.587 ->  + 900,- 700 + 900,- 700 + 900,- 700 + 900
+16:58:27.620 -> Duration=233950us
+16:58:27.620 -> 
+16:58:27.620 -> -----------------------------
+
+
+30
+
+:41.622 -> --- CAPTURED SIGNAL ---
+16:58:41.622 -> Protocol=PulseDistance, Raw-Data=0x34800000008000, 119 bits, LSB first, Gap=3276750us, Duration=235900us
+16:58:41.622 -> 
+16:58:41.622 -> Paste this array into your sender code:
+16:58:41.622 -> ------------------------------------------------
+16:58:41.681 -> rawIRTimings[242]: 
+16:58:41.681 ->  -3276750
+16:58:41.681 ->  +1100,- 550
+16:58:41.681 ->  +1050,- 500 +1100,-2450 +1100,-2500 +1100,- 500
+16:58:41.681 ->  +1100,-2450 +1100,-2450 +1150,- 500 +1050,- 550
+16:58:41.681 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1000,-2500
+16:58:41.681 ->  +1100,-2500 +1050,-2500 +1100,-2500 +1050,-2500
+16:58:41.681 ->  +1050,-2550 +1050,-2500 +1050,- 550 +1050,-2500
+16:58:41.681 ->  +1100,- 550 +1000,- 600 +1000,- 550 +1050,-2500
+16:58:41.681 ->  +1100,- 500 +1100,- 500 +1100,- 500 +1050,- 550
+16:58:41.688 ->  +1050,- 550 +1050,- 550 +1050,- 550 +1050,- 550
+16:58:41.688 ->  +1050,- 550 +1050,-2500 +1050,-2500 +1100,-2500
+16:58:41.688 ->  +1000,-2550 +1050,- 550 +1050,- 550 +1050,- 550
+16:58:41.688 ->  +1050,- 550 +1000,- 600 +1000,- 600 +1000,- 600
+16:58:41.688 ->  +1000,- 600 +1000,- 600 +1000,- 600 +1000,- 600
+
+
+OFF
+
+17:33:04.235 -> Protocol=PulseDistance, Raw-Data=0x22000000008000, 119 bits, LSB first, Gap=3276750us, Duration=226000us
+17:33:04.235 -> Send on a 32 bit platform with: 
+17:33:04.235 ->   uint64_t tRawData[]={0x6000BF836, 0x22000000008000};
+17:33:04.235 ->   IrSender.sendPulseDistanceWidthFromArray(38, 1100, 550, 1000, 2500, 1000, 600, &tRawData[0], 119, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:33:04.296 -> >>> TYPE: PulseDistance (Generic) detected.
+17:33:04.296 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:33:04.296 -> >>> RAW HEX (for logic): 0x22000000008000
+
+
+ON
+
+17:33:36.737 -> Protocol=PulseDistance, Raw-Data=0x22800000008000, 119 bits, LSB first, Gap=3276750us, Duration=229950us
+17:33:36.802 -> Send on a 32 bit platform with: 
+17:33:36.802 ->   uint64_t tRawData[]={0x6008BF836, 0x22800000008000};
+17:33:36.802 ->   IrSender.sendPulseDistanceWidthFromArray(38, 1100, 550, 1000, 2500, 1000, 600, &tRawData[0], 119, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:33:36.802 -> >>> TYPE: PulseDistance (Generic) detected.
+17:33:36.802 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:33:36.802 -> >>> RAW HEX (for logic): 0x22800000008000
+
+
+
+Temprature 16 -30
+
+17:34:26.732 -> Protocol=PulseDistance, Raw-Data=0x26800000008000, 119 bits, LSB first, Gap=3276750us, Duration=230000us
+17:34:26.732 -> Send on a 32 bit platform with: 
+17:34:26.732 ->   uint64_t tRawData[]={0x2008BF836, 0x26800000008000};
+17:34:26.732 ->   IrSender.sendPulseDistanceWidthFromArray(38, 1150, 500, 1050, 2500, 1050, 550, &tRawData[0], 119, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:34:26.732 -> >>> TYPE: PulseDistance (Generic) detected.
+17:34:26.764 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:34:26.764 -> >>> RAW HEX (for logic): 0x26800000008000
+17:34:26.764 -> ----------------------------------------
+17:34:29.505 -> Protocol=PulseDistance, Raw-Data=0x6800000008000, 119 bits, LSB first, Gap=2546050us, Duration=229950us
+17:34:29.505 -> Send on a 32 bit platform with: 
+17:34:29.505 ->   uint64_t tRawData[]={0x22008BF836, 0x6800000008000};
+17:34:29.505 ->   IrSender.sendPulseDistanceWidthFromArray(38, 1100, 500, 1050, 2500, 1050, 600, &tRawData[0], 119, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:34:29.564 -> >>> TYPE: PulseDistance (Generic) detected.
+17:34:29.564 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:34:29.564 -> >>> RAW HEX (for logic): 0x6800000008000
+17:34:29.564 -> ----------------------------------------
+17:34:32.994 -> Protocol=PulseDistance, Raw-Data=0x3A800000008000, 119 bits, LSB first, Gap=3268400us, Duration=233900us
+17:34:32.994 -> Send on a 32 bit platform with: 
+17:34:32.994 ->   uint64_t tRawData[]={0x12008BF836, 0x3A800000008000};
+17:34:32.994 ->   IrSender.sendPulseDistanceWidthFromArray(38, 1100, 500, 1000, 2500, 1000, 600, &tRawData[0], 119, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:34:33.053 -> >>> TYPE: PulseDistance (Generic) detected.
+17:34:33.053 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:34:33.053 -> >>> RAW HEX (for logic): 0x3A800000008000
+17:34:33.053 -> ----------------------------------------
+17:34:34.546 -> Protocol=PulseDistance, Raw-Data=0x1A800000008000, 119 bits, LSB first, Gap=1320450us, Duration=233950us
+17:34:34.546 -> Send on a 32 bit platform with: 
+17:34:34.546 ->   uint64_t tRawData[]={0x32008BF836, 0x1A800000008000};
+17:34:34.579 ->   IrSender.sendPulseDistanceWidthFromArray(38, 1100, 500, 1050, 2500, 1050, 550, &tRawData[0], 119, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:34:34.579 -> >>> TYPE: PulseDistance (Generic) detected.
+17:34:34.579 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:34:34.579 -> >>> RAW HEX (for logic): 0x1A800000008000
+
+17:34:34.579 -> ----------------------------------------
+17:34:37.475 -> Protocol=PulseDistance, Raw-Data=0x2A800000008000, 119 bits, LSB first, Gap=2681350us, Duration=231950us
+17:34:37.475 -> Send on a 32 bit platform with: 
+17:34:37.475 ->   uint64_t tRawData[]={0xA008BF836, 0x2A800000008000};
+17:34:37.475 ->   IrSender.sendPulseDistanceWidthFromArray(38, 1100, 550, 1000, 2500, 1000, 600, &tRawData[0], 119, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:34:37.475 -> >>> TYPE: PulseDistance (Generic) detected.
+17:34:37.509 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:34:37.509 -> >>> RAW HEX (for logic): 0x2A800000008000
+17:34:37.509 -> ----------------------------------------
+17:34:38.956 -> Protocol=PulseDistance, Raw-Data=0xA800000008000, 119 bits, LSB first, Gap=1268600us, Duration=232000us
+17:34:38.956 -> Send on a 32 bit platform with: 
+17:34:38.988 ->   uint64_t tRawData[]={0x2A008BF836, 0xA800000008000};
+17:34:38.988 ->   IrSender.sendPulseDistanceWidthFromArray(38, 1150, 500, 1050, 2500, 1050, 600, &tRawData[0], 119, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:34:38.988 -> >>> TYPE: PulseDistance (Generic) detected.
+17:34:38.988 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:34:38.988 -> >>> RAW HEX (for logic): 0xA800000008000
+17:34:39.020 -> ----------------------------------------
+17:34:41.295 -> Protocol=PulseDistance, Raw-Data=0x32800000008000, 119 bits, LSB first, Gap=2085300us, Duration=233950us
+17:34:41.295 -> Send on a 32 bit platform with: 
+17:34:41.295 ->   uint64_t tRawData[]={0x1A008BF836, 0x32800000008000};
+17:34:41.295 ->   IrSender.sendPulseDistanceWidthFromArray(38, 1150, 450, 1000, 2500, 1000, 600, &tRawData[0], 119, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:34:41.295 -> >>> TYPE: PulseDistance (Generic) detected.
+17:34:41.329 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:34:41.329 -> >>> RAW HEX (for logic): 0x32800000008000
+17:34:41.329 -> ----------------------------------------
+17:34:42.700 -> Protocol=PulseDistance, Raw-Data=0x12800000008000, 119 bits, LSB first, Gap=1184150us, Duration=233950us
+17:34:42.700 -> Send on a 32 bit platform with: 
+17:34:42.700 ->   uint64_t tRawData[]={0x3A008BF836, 0x12800000008000};
+17:34:42.732 ->   IrSender.sendPulseDistanceWidthFromArray(38, 1150, 500, 1050, 2500, 1050, 550, &tRawData[0], 119, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:34:42.732 -> >>> TYPE: PulseDistance (Generic) detected.
+17:34:42.732 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:34:42.732 -> >>> RAW HEX (for logic): 0x12800000008000
+17:34:42.732 -> ----------------------------------------
+17:34:44.907 -> Protocol=PulseDistance, Raw-Data=0x22800000008000, 119 bits, LSB first, Gap=1990650us, Duration=230000us
+17:34:44.939 -> Send on a 32 bit platform with: 
+17:34:44.939 ->   uint64_t tRawData[]={0x6008BF836, 0x22800000008000};
+17:34:44.939 ->   IrSender.sendPulseDistanceWidthFromArray(38, 1100, 500, 1000, 2500, 1000, 600, &tRawData[0], 119, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:34:44.939 -> >>> TYPE: PulseDistance (Generic) detected.
+17:34:44.939 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:34:44.973 -> >>> RAW HEX (for logic): 0x22800000008000
+17:34:44.973 -> ----------------------------------------
+17:34:46.424 -> Protocol=PulseDistance, Raw-Data=0x2800000008000, 119 bits, LSB first, Gap=1280050us, Duration=230000us
+17:34:46.424 -> Send on a 32 bit platform with: 
+17:34:46.424 ->   uint64_t tRawData[]={0x26008BF836, 0x2800000008000};
+17:34:46.457 ->   IrSender.sendPulseDistanceWidthFromArray(38, 1100, 550, 1050, 2500, 1050, 550, &tRawData[0], 119, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:34:46.457 -> >>> TYPE: PulseDistance (Generic) detected.
+17:34:46.457 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:34:46.457 -> >>> RAW HEX (for logic): 0x2800000008000
+17:34:46.489 -> ----------------------------------------
+17:34:47.914 -> Protocol=PulseDistance, Raw-Data=0x3C800000008000, 119 bits, LSB first, Gap=1251700us, Duration=235900us
+17:34:47.914 -> Send on a 32 bit platform with: 
+17:34:47.914 ->   uint64_t tRawData[]={0x16008BF836, 0x3C800000008000};
+17:34:47.948 ->   IrSender.sendPulseDistanceWidthFromArray(38, 1100, 550, 1000, 2550, 1000, 600, &tRawData[0], 119, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:34:47.948 -> >>> TYPE: PulseDistance (Generic) detected.
+17:34:47.948 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:34:47.948 -> >>> RAW HEX (for logic): 0x3C800000008000
+17:34:47.948 -> ----------------------------------------
+17:34:49.396 -> Protocol=PulseDistance, Raw-Data=0x1C800000008000, 119 bits, LSB first, Gap=1241800us, Duration=235900us
+17:34:49.396 -> Send on a 32 bit platform with: 
+17:34:49.396 ->   uint64_t tRawData[]={0x36008BF836, 0x1C800000008000};
+17:34:49.396 ->   IrSender.sendPulseDistanceWidthFromArray(38, 1100, 550, 1000, 2500, 1000, 600, &tRawData[0], 119, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:34:49.429 -> >>> TYPE: PulseDistance (Generic) detected.
+17:34:49.429 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:34:49.429 -> >>> RAW HEX (for logic): 0x1C800000008000
+17:34:49.429 -> ----------------------------------------
+17:34:50.906 -> Protocol=PulseDistance, Raw-Data=0x2C800000008000, 119 bits, LSB first, Gap=1290050us, Duration=233900us
+17:34:50.938 -> Send on a 32 bit platform with: 
+17:34:50.938 ->   uint64_t tRawData[]={0xE008BF836, 0x2C800000008000};
+17:34:50.938 ->   IrSender.sendPulseDistanceWidthFromArray(38, 1050, 550, 1000, 2500, 1000, 600, &tRawData[0], 119, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:34:50.938 -> >>> TYPE: PulseDistance (Generic) detected.
+17:34:50.938 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:34:50.972 -> >>> RAW HEX (for logic): 0x2C800000008000
+17:34:50.972 -> ----------------------------------------
+17:34:52.527 -> Protocol=PulseDistance, Raw-Data=0xC800000008000, 119 bits, LSB first, Gap=1385700us, Duration=233900us
+17:34:52.559 -> Send on a 32 bit platform with: 
+17:34:52.559 ->   uint64_t tRawData[]={0x2E008BF836, 0xC800000008000};
+17:34:52.559 ->   IrSender.sendPulseDistanceWidthFromArray(38, 1050, 550, 1000, 2500, 1000, 600, &tRawData[0], 119, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:34:52.559 -> >>> TYPE: PulseDistance (Generic) detected.
+17:34:52.559 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:34:52.591 -> >>> RAW HEX (for logic): 0xC800000008000
+17:34:52.591 -> ----------------------------------------
+17:34:54.480 -> Protocol=PulseDistance, Raw-Data=0x34800000008000, 119 bits, LSB first, Gap=1702350us, Duration=235900us
+17:34:54.480 -> Send on a 32 bit platform with: 
+17:34:54.480 ->   uint64_t tRawData[]={0x1E008BF836, 0x34800000008000};
+17:34:54.480 ->   IrSender.sendPulseDistanceWidthFromArray(38, 1100, 550, 1050, 2500, 1050, 550, &tRawData[0], 119, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+17:34:54.511 -> >>> TYPE: PulseDistance (Generic) detected.
+17:34:54.511 -> >>> DATA: Copy the 'rawIRTimings' array printed above to send this.
+17:34:54.511 -> >>> RAW HEX (for logic): 0x34800000008000
+17:34:54.511 -> ----------------------------------------
+
